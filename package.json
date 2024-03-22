@@ -1,0 +1,25 @@
+{
+  "name": "calstatscraper",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/cli-progress": "^3.11.5",
+    "@types/hjson": "^2.4.6",
+    "@types/jsdom": "^21.1.6",
+    "@types/node": "^20.11.30",
+    "@typescript-eslint/eslint-plugin": "^7.3.1",
+    "@typescript-eslint/parser": "^7.3.1",
+    "bun-types": "^1.0.1",
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.3"
+  },
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "cli-progress": "^3.12.0",
+    "hjson": "^3.2.2",
+    "jsdom": "^24.0.0",
+    "json5": "^2.2.3",
+    "node-fetch": "^3.3.2"
+  }
+}
