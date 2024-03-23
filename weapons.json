@@ -10,7 +10,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Galvanizing Glaive",
@@ -23,7 +24,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Gatling Laser",
@@ -36,7 +38,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Gauss Dagger",
@@ -49,7 +52,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Gauss Pistol",
@@ -62,7 +66,8 @@
     "knockback": 11,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Gauss Rifle",
@@ -75,7 +80,8 @@
     "knockback": 30,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Heavy Laser Rifle",
@@ -88,7 +94,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Hydraulic Volt Crasher",
@@ -101,7 +108,8 @@
     "knockback": 12,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Matter Modulator",
@@ -114,7 +122,8 @@
     "knockback": 11,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Mounted Scanner",
@@ -127,7 +136,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Phaseslayer",
@@ -140,7 +150,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Plasma Caster",
@@ -153,7 +164,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Plasma Grenade",
@@ -166,7 +178,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Pole Warper",
@@ -179,7 +192,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Pulse Dragon",
@@ -192,7 +206,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Pulse Pistol",
@@ -205,7 +220,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Pulse Rifle",
@@ -218,7 +234,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Pulse Turret Remote",
@@ -231,7 +248,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Snake Eyes",
@@ -244,7 +262,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Star Swallower Containment Unit",
@@ -257,7 +276,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "System Bane",
@@ -270,7 +290,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Taser",
@@ -283,7 +304,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Tesla Cannon",
@@ -296,7 +318,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "The Anomaly's Nanogun",
@@ -309,7 +332,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Tracking Disk",
@@ -322,7 +346,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Wave Pounder",
@@ -335,7 +360,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Abyss Shocker",
@@ -348,7 +374,8 @@
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Abyssal Tome",
@@ -361,7 +388,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Acid Gun",
@@ -374,7 +402,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Aetherflux Cannon",
@@ -387,7 +416,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Aether's Whisper",
@@ -400,7 +430,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Alpha Ray",
@@ -413,7 +444,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Alula Australis",
@@ -426,7 +458,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Anahita's Arpeggio",
@@ -439,7 +472,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Apoctosis Array",
@@ -452,7 +486,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Apotheosis",
@@ -465,7 +500,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Aquamarine Staff",
@@ -478,7 +514,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Arch Amaryllis",
@@ -491,7 +528,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Arctic Bear Paw",
@@ -504,7 +542,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Purple"
   },
   {
     "name": "Art Attack",
@@ -517,7 +556,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Asteroid Staff",
@@ -530,7 +570,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Astral Staff",
@@ -543,7 +584,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Astralachnea Staff",
@@ -556,7 +598,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Atlantis",
@@ -569,7 +612,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Augur of the Elements",
@@ -582,7 +626,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Belching Saxophone",
@@ -595,7 +640,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Biofusillade",
@@ -608,7 +654,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Black Anurian",
@@ -621,7 +668,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Blood Bath",
@@ -634,7 +682,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Brimrose Staff",
@@ -647,7 +696,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Burning Sea",
@@ -660,7 +710,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Clamor Noctus",
@@ -673,7 +724,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Clothier's Wrath",
@@ -686,7 +738,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Coral Spout",
@@ -699,7 +752,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Cosmic Rainbow",
@@ -712,7 +766,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Cryophobia",
@@ -725,7 +780,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Purple"
   },
   {
     "name": "Dark Spark",
@@ -738,7 +794,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Death Valley Duster",
@@ -751,7 +808,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Deathhail Staff",
@@ -764,7 +822,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Divine Retribution",
@@ -777,7 +836,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Downpour",
@@ -790,7 +850,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Effervescence",
@@ -803,7 +864,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Eidolic Wail",
@@ -816,7 +878,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Eidolon Staff",
@@ -829,7 +892,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Eldritch Tome",
@@ -842,7 +906,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Elemental Ray",
@@ -855,7 +920,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Eternity",
@@ -868,7 +934,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Event Horizon",
@@ -881,7 +948,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Everglade Spray",
@@ -894,7 +962,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Fabstaff",
@@ -907,7 +976,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Face Melter",
@@ -920,7 +990,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Fate's Reveal",
@@ -933,7 +1004,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Flare Bolt",
@@ -946,7 +1018,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Forbidden Sun",
@@ -959,7 +1032,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Frigidflash Bolt",
@@ -972,7 +1046,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Frost Bolt",
@@ -985,7 +1060,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Genisis",
@@ -998,7 +1074,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Ghastly Visage",
@@ -1011,7 +1088,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Gleaming Magnolia",
@@ -1024,7 +1102,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Glorious End",
@@ -1037,7 +1116,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Gruesome Eminence",
@@ -1050,7 +1130,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Hadal Urn",
@@ -1063,7 +1144,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Harvest Staff",
@@ -1076,7 +1158,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Helium Flash",
@@ -1089,7 +1172,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Hellwing Staff",
@@ -1102,7 +1186,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Hematemesis",
@@ -1115,7 +1200,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Heresy",
@@ -1128,7 +1214,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Hyphae Rod",
@@ -1141,7 +1228,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Ice Barrage",
@@ -1154,7 +1242,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Icicle Staff",
@@ -1167,7 +1256,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Icicle Trident",
@@ -1180,7 +1270,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Infernal Rift",
@@ -1193,7 +1284,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Ion Blaster",
@@ -1206,7 +1298,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Keelhaul",
@@ -1219,7 +1312,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Lashes of Chaos",
@@ -1232,7 +1326,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Lazhar",
@@ -1245,7 +1340,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Light God's Brilliance",
@@ -1258,7 +1354,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Mad Alchemist's Cocktail Glove",
@@ -1271,7 +1368,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Magnetic Meltdown",
@@ -1284,7 +1382,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Mana Rose",
@@ -1297,7 +1396,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Miasma",
@@ -1310,7 +1410,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Mistlestorm",
@@ -1323,7 +1424,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Nano Purge",
@@ -1336,7 +1438,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Nebulous Cataclysm",
@@ -1349,7 +1452,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Night's Ray",
@@ -1362,7 +1466,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Nuclear Fury",
@@ -1375,7 +1480,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Parasitic Scepter",
@@ -1388,7 +1494,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Phantasmal Fury",
@@ -1401,7 +1508,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Phoenix Flame Barrage",
@@ -1414,7 +1522,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Plague Staff",
@@ -1427,7 +1536,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Plasma Rifle",
@@ -1440,7 +1550,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Plasma Rod",
@@ -1453,7 +1564,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Poseidon",
@@ -1466,7 +1578,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Primordial Ancient",
@@ -1479,7 +1592,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Primordial Earth",
@@ -1492,7 +1606,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Purge Guzzler",
@@ -1505,7 +1620,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Rainbow Party Cannon",
@@ -1518,7 +1634,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Rancor",
@@ -1531,7 +1648,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Recitation of the Beast",
@@ -1544,7 +1662,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Relic of Ruin",
@@ -1557,7 +1676,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Rouge Slash",
@@ -1570,7 +1690,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "SHPC",
@@ -1583,7 +1704,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Sandstream Scepter",
@@ -1596,7 +1718,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Sanguine Flare",
@@ -1609,7 +1732,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Seething Discharge",
@@ -1622,7 +1746,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Serpentine",
@@ -1635,7 +1760,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Shadecrystal Barrage",
@@ -1648,7 +1774,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Shaderain Staff",
@@ -1661,7 +1788,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Shadowbolt Staff",
@@ -1674,7 +1802,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Shifting Sands",
@@ -1687,7 +1816,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Sky Glaze",
@@ -1700,7 +1830,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Slithering Eels",
@@ -1713,7 +1844,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Snowstorm Staff",
@@ -1726,7 +1858,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Soul Piercer",
@@ -1739,7 +1872,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Staff of Blushie",
@@ -1752,7 +1886,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Star Shower",
@@ -1765,7 +1900,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Subsuming Vortex",
@@ -1778,7 +1914,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Tactician's Trump Card",
@@ -1791,7 +1928,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Tears of Heaven",
@@ -1804,7 +1942,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Terra Ray",
@@ -1817,7 +1956,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "The Dance of Light",
@@ -1830,7 +1970,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "The Prince",
@@ -1843,7 +1984,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "The Swarmer",
@@ -1856,7 +1998,8 @@
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "The Wand",
@@ -1869,7 +2012,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Thorn Blossom",
@@ -1882,7 +2026,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Thunderstorm",
@@ -1895,7 +2040,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Tome of Fates",
@@ -1908,7 +2054,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Tradewinds",
@@ -1921,7 +2068,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Ultra Liquidator",
@@ -1934,7 +2082,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Undine's Retribution",
@@ -1947,7 +2096,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Valkyrie Ray",
@@ -1960,7 +2110,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Veering Wind",
@@ -1973,7 +2124,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Vehemence",
@@ -1986,7 +2138,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Venusian Trident",
@@ -1999,7 +2152,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Vesuvius",
@@ -2012,7 +2166,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Viscera",
@@ -2025,7 +2180,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Vitriolic Viper",
@@ -2038,7 +2194,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Vivid Clarity",
@@ -2051,7 +2208,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Void Vortex",
@@ -2064,7 +2222,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Voltaic Climax",
@@ -2077,7 +2236,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Waywasher",
@@ -2090,7 +2250,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Wingman",
@@ -2103,7 +2264,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Winter's Fury",
@@ -2116,7 +2278,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Wrath of the Ancients",
@@ -2129,7 +2292,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Wulfrum Prosthesis",
@@ -2142,7 +2306,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Wyvern's Call",
@@ -2155,7 +2320,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Yharim's Crystal",
@@ -2168,7 +2334,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Absolute Zero",
@@ -2181,7 +2348,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Abyss Blade",
@@ -2194,7 +2362,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Aegis Blade",
@@ -2207,7 +2376,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Aftershock",
@@ -2220,7 +2390,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Air Spinner",
@@ -2233,7 +2404,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Amidias' Trident",
@@ -2246,7 +2418,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Anarchy Blade",
@@ -2259,7 +2432,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Aorta",
@@ -2272,7 +2446,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Ark of the Cosmos",
@@ -2285,7 +2460,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Ark of the Elements",
@@ -2298,7 +2474,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Astral Blade",
@@ -2311,7 +2488,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Astral Pike",
@@ -2324,7 +2502,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Astral Scythe",
@@ -2337,7 +2516,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Ataraxia",
@@ -2350,7 +2530,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Avalanche",
@@ -2363,7 +2544,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Azathoth",
@@ -2376,7 +2558,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Baleful Harvester",
@@ -2389,7 +2572,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Ball O' Fugu",
@@ -2402,7 +2586,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Banshee Hook",
@@ -2415,7 +2600,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Basher",
@@ -2428,7 +2614,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Bladecrest Oathsword",
@@ -2441,7 +2628,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Blighted Cleaver",
@@ -2454,7 +2642,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Bonebreaker",
@@ -2467,7 +2656,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Brimlance",
@@ -2480,7 +2670,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Brimlash",
@@ -2493,7 +2684,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Brimstone Sword",
@@ -2506,7 +2698,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Briny Baron",
@@ -2519,7 +2712,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Broken Biome Blade",
@@ -2532,7 +2726,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Burnt Sienna",
@@ -2545,7 +2740,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Carnage Ray",
@@ -2558,7 +2754,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Catastrophe Claymore",
@@ -2571,7 +2768,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Purple"
   },
   {
     "name": "Celestial Claymore",
@@ -2584,7 +2782,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Clam Crusher",
@@ -2597,7 +2796,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Comet Quasher",
@@ -2610,7 +2810,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Cosmic Discharge",
@@ -2623,7 +2824,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Cosmic Shiv",
@@ -2636,7 +2838,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Crescent Moon",
@@ -2649,7 +2852,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Darklight Greatsword",
@@ -2662,7 +2866,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Death's Ascension",
@@ -2675,7 +2880,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Defiled Greatsword",
@@ -2688,7 +2894,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Depth Crusher",
@@ -2701,7 +2908,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Devastation",
@@ -2714,7 +2922,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Devil's Devastation",
@@ -2727,7 +2936,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Devil's Sunrise",
@@ -2740,7 +2950,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Diseased Pike",
@@ -2753,7 +2964,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Draconic Destruction",
@@ -2766,7 +2978,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Dragon Pow",
@@ -2779,7 +2992,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Dragon Rage",
@@ -2792,7 +3006,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Primordial Earth",
@@ -2805,7 +3020,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Earthen Pike",
@@ -2818,7 +3034,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Elemental Lance",
@@ -2831,7 +3048,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Elemental Shiv",
@@ -2844,7 +3062,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Empyrean Knives",
@@ -2857,7 +3076,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Entropic Claymore",
@@ -2870,7 +3090,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Essence Flayer",
@@ -2883,7 +3104,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Eutrophic Scimitar",
@@ -2896,7 +3118,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Evil Smasher",
@@ -2909,7 +3132,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Exalted Oathblade",
@@ -2922,7 +3146,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Excelsus",
@@ -2935,7 +3160,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Exoblade",
@@ -2948,7 +3174,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Fallen Paladin's Hammer",
@@ -2961,7 +3188,8 @@
     "knockback": 20,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Fault Line",
@@ -2974,7 +3202,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Feralthorn Claymore",
@@ -2987,7 +3216,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Flarefrost Blade",
@@ -3000,7 +3230,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Floodtide",
@@ -3013,7 +3244,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Forbidden Oathblade",
@@ -3026,7 +3258,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Forsaken Saber",
@@ -3039,7 +3272,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Galaxia",
@@ -3052,7 +3286,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Fractured Ark",
@@ -3065,7 +3300,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Gael's Greatsword",
@@ -3078,7 +3314,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Galactus Blade",
@@ -3091,7 +3328,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Galaxy Smasher",
@@ -3104,7 +3342,8 @@
     "knockback": 14,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Galileo Gladius",
@@ -3117,7 +3356,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Gelitic Blade",
@@ -3130,7 +3370,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Gilded Proboscis",
@@ -3143,7 +3384,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Goldplume Spear",
@@ -3156,7 +3398,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Grand Guardian",
@@ -3169,7 +3412,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Greatsword of Judgement",
@@ -3182,7 +3426,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Greentide",
@@ -3195,7 +3440,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Hellfire Flamberge",
@@ -3208,7 +3454,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Hellion Flower Spear",
@@ -3221,7 +3468,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Hellkite",
@@ -3234,7 +3482,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Holy Collider",
@@ -3247,7 +3496,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Illustrious Knives",
@@ -3260,7 +3510,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Insidious Impaler",
@@ -3273,7 +3524,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Iridescent Excalibur",
@@ -3286,7 +3538,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Rainbow"
   },
   {
     "name": "Lacerator",
@@ -3299,7 +3552,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Lifehunt Scythe",
@@ -3312,7 +3566,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Lion Heart",
@@ -3325,7 +3580,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Lucrecia",
@@ -3338,7 +3594,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Majestic Guard",
@@ -3351,7 +3608,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Mantis Claws",
@@ -3364,7 +3622,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Mirror Blade",
@@ -3377,7 +3636,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Monstrous Knives",
@@ -3390,7 +3650,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Mourningstar",
@@ -3403,7 +3664,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Murasama",
@@ -3416,7 +3678,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Mycelial Claws",
@@ -3429,7 +3692,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Nadir",
@@ -3442,7 +3706,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Nebulash",
@@ -3455,7 +3720,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Neptune's Bounty",
@@ -3468,7 +3734,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Oblivion",
@@ -3481,7 +3748,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Old Lord Claymore",
@@ -3494,7 +3762,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "True Biome Blade",
@@ -3507,7 +3776,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Omniblade",
@@ -3520,7 +3790,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Oracle Headphones",
@@ -3533,7 +3804,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Orderbringer",
@@ -3546,7 +3818,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Pandemic",
@@ -3559,7 +3832,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Perfect Dark",
@@ -3572,7 +3846,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Phosphorescent Gauntlet",
@@ -3585,7 +3860,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Photon Ripper",
@@ -3598,7 +3874,8 @@
     "knockback": 12,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Plague Keeper",
@@ -3611,7 +3888,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Prismatic Breaker",
@@ -3624,7 +3902,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Pwnagehammer",
@@ -3637,7 +3916,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Purple"
   },
   {
     "name": "Quagmire",
@@ -3650,7 +3930,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Red Sun",
@@ -3663,7 +3944,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Redtide Spear",
@@ -3676,7 +3958,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Rem's Revenge",
@@ -3689,7 +3972,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Riptide",
@@ -3702,7 +3986,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Roxcalibur",
@@ -3715,7 +4000,8 @@
     "knockback": 13,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Sahara Slicers",
@@ -3728,7 +4014,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Sausage Maker",
@@ -3741,7 +4028,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Scourge of the Cosmos",
@@ -3754,7 +4042,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Seashine Sword",
@@ -3767,7 +4056,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Seeking Scorcher",
@@ -3780,7 +4070,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Shimmerspark",
@@ -3793,7 +4084,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Smoking Comet",
@@ -3806,7 +4098,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Solar Flare",
@@ -3819,7 +4112,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Solstice Claymore",
@@ -3832,7 +4126,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Soul Edge",
@@ -3845,7 +4140,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Soul Harvester",
@@ -3858,7 +4154,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Spine of Thanatos",
@@ -3871,7 +4168,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Starnight Lance",
@@ -3884,7 +4182,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Stellar Contempt",
@@ -3897,7 +4196,8 @@
     "knockback": 28,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Stellar Striker",
@@ -3910,7 +4210,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Storm Ruler",
@@ -3923,7 +4224,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Storm Saber",
@@ -3936,7 +4238,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Stream Gouge",
@@ -3949,7 +4252,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Stygian Shield",
@@ -3962,7 +4266,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Submarine Shocker",
@@ -3975,7 +4280,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Sulphurous Grabber",
@@ -3988,7 +4294,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Swordsplosion",
@@ -4001,7 +4308,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Tainted Blade",
@@ -4014,7 +4322,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Teardrop Cleaver",
@@ -4027,7 +4336,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Tenebreus Tides",
@@ -4040,7 +4350,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Terra Lance",
@@ -4053,7 +4364,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Terratomere",
@@ -4066,7 +4378,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Terror Blade",
@@ -4079,7 +4392,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "The Burning Sky",
@@ -4092,7 +4406,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "The Enforcer",
@@ -4105,7 +4420,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "The God's Gambit",
@@ -4118,7 +4434,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "The Last Mourning",
@@ -4131,7 +4448,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "The Microwave",
@@ -4144,7 +4462,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "The Mutilator",
@@ -4157,7 +4476,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "The Obliterator",
@@ -4170,7 +4490,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Titan Arm",
@@ -4183,7 +4504,8 @@
     "knockback": 80,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Triactis' True Paladinian Mage-Hammer of Might",
@@ -4196,7 +4518,8 @@
     "knockback": 50,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Ark of the Ancients",
@@ -4209,7 +4532,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Biome Blade",
@@ -4222,7 +4546,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Purple"
   },
   {
     "name": "Caustic Edge",
@@ -4235,7 +4560,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Tumbleweed",
@@ -4248,7 +4574,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Typhon's Greed",
@@ -4261,7 +4588,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Ultimus Cleaver",
@@ -4274,7 +4602,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Urchin Flail",
@@ -4287,7 +4616,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Urchin Mace",
@@ -4300,7 +4630,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Vein Burster",
@@ -4313,7 +4644,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Violence",
@@ -4326,7 +4658,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Virulence",
@@ -4339,7 +4672,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Vulcanite Lance",
@@ -4352,7 +4686,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Wind Blade",
@@ -4365,7 +4700,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Wulfrum Screwdriver",
@@ -4378,7 +4714,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Yateveo Bloom",
@@ -4391,7 +4728,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Yin-Yo",
@@ -4404,7 +4742,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Ace's High",
@@ -4417,7 +4756,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Adamantite Particle Accelerator",
@@ -4430,7 +4770,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Alluvion",
@@ -4443,7 +4784,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Angelic Shotgun",
@@ -4456,7 +4798,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Animosity",
@@ -4469,7 +4812,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Anti-materiel Rifle",
@@ -4482,7 +4826,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Aquashard Shotgun",
@@ -4495,7 +4840,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Arbalest",
@@ -4508,7 +4854,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Arc Nova Diffuser",
@@ -4521,7 +4868,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Archerfish",
@@ -4534,7 +4882,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Arterial Assault",
@@ -4547,7 +4896,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Astral Blaster",
@@ -4560,7 +4910,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Astral Bow",
@@ -4573,7 +4924,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Astreal Defeat",
@@ -4586,7 +4938,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Auralis",
@@ -4599,7 +4952,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Aurora Blazer",
@@ -4612,7 +4966,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Barinade",
@@ -4625,7 +4980,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Barinautical",
@@ -4638,7 +4994,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Barracuda Gun",
@@ -4651,7 +5008,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Bladedge Railbow",
@@ -4664,7 +5022,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Blight Spewer",
@@ -4677,7 +5036,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Blissful Bombardier",
@@ -4690,7 +5050,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Blood Boiler",
@@ -4703,7 +5064,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Blossom Flux",
@@ -4716,7 +5078,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Brimstone Fury",
@@ -4729,7 +5092,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Bullet-Filled Shotgun",
@@ -4742,7 +5106,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Butcher",
@@ -4755,7 +5120,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Chicken Cannon",
@@ -4768,7 +5134,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Clamor Rifle",
@@ -4781,7 +5148,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Claret Cannon",
@@ -4794,7 +5162,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Cleansing Blaze",
@@ -4807,7 +5176,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Clock Gatlignum",
@@ -4820,7 +5190,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Clockwork Bow",
@@ -4833,7 +5204,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Condemnation",
@@ -4846,7 +5218,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Conference Call",
@@ -4859,7 +5232,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Contagion",
@@ -4872,7 +5246,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Continental Greatbow",
@@ -4885,7 +5260,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Coral Cannon",
@@ -4898,7 +5274,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Corinth Prime",
@@ -4911,7 +5288,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Corroded Caustibow",
@@ -4924,7 +5302,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Cosmic Bolter",
@@ -4937,7 +5316,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Crackshot Colt",
@@ -4950,7 +5330,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Cursed Capper",
@@ -4963,7 +5344,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Daemon's Flame",
@@ -4976,7 +5358,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Darkecho Greatbow",
@@ -4989,7 +5372,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Dead Sun's Wind",
@@ -5002,7 +5386,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Deathwind",
@@ -5015,7 +5400,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Deepcore GK2",
@@ -5028,7 +5414,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Disseminator",
@@ -5041,7 +5428,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Dodu's Handcannon",
@@ -5054,7 +5442,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "White"
   },
   {
     "name": "Dragon's Breath",
@@ -5067,7 +5456,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Drataliornus",
@@ -5080,7 +5470,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Elemental Blaster",
@@ -5093,7 +5484,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Elemental Eruption",
@@ -5106,7 +5498,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Eternal Blizzard",
@@ -5119,7 +5512,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Eviscerator",
@@ -5132,7 +5526,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Fetid Emesis",
@@ -5145,7 +5540,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Firestorm Cannon",
@@ -5158,7 +5554,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Flak Kraken",
@@ -5171,7 +5568,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Flak Toxicannon",
@@ -5184,7 +5582,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Flarewing Bow",
@@ -5197,7 +5596,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Flurrystorm Cannon",
@@ -5210,7 +5610,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Freedom Star",
@@ -5223,7 +5624,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Frostbite Blaster",
@@ -5236,7 +5638,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Fungicide",
@@ -5249,7 +5652,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Galeforce",
@@ -5262,7 +5666,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Golden Eagle",
@@ -5275,7 +5680,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Goobow",
@@ -5288,7 +5694,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Gunk Shot",
@@ -5301,7 +5708,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Halibut Cannon",
@@ -5314,7 +5722,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Halley's Inferno",
@@ -5327,7 +5736,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Handheld Tank",
@@ -5340,7 +5750,8 @@
     "knockback": 16,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Havoc's Breath",
@@ -5353,7 +5764,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Heavenly Gale",
@@ -5366,7 +5778,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Hellborn",
@@ -5379,7 +5792,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Helstorm",
@@ -5392,7 +5806,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Hoarfrost Bow",
@@ -5405,7 +5820,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Hydraulic Volt Crasher",
@@ -5418,7 +5834,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Infinity",
@@ -5431,7 +5848,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Karasawa",
@@ -5444,7 +5862,8 @@
     "knockback": 12,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Kingsbane",
@@ -5457,7 +5876,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Leviatitan",
@@ -5470,7 +5890,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Lunarian Bow",
@@ -5483,7 +5904,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Magna Cannon",
@@ -5496,7 +5918,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Magnomaly Cannon",
@@ -5509,7 +5932,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Malevolence",
@@ -5522,7 +5946,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Marksman Bow",
@@ -5535,7 +5960,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Megalodon",
@@ -5548,7 +5974,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Meowthrower",
@@ -5561,7 +5988,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Midas Prime",
@@ -5574,7 +6002,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Mineral Mortar",
@@ -5587,7 +6016,8 @@
     "knockback": 20,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Molecular Manipulator",
@@ -5600,7 +6030,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Monsoon",
@@ -5613,7 +6044,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Needler",
@@ -5626,7 +6058,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Nettlevine Greatbow",
@@ -5639,7 +6072,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Norfleet",
@@ -5652,7 +6086,8 @@
     "knockback": 15,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Nullification Pistol",
@@ -5665,7 +6100,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Onyx Chain Blaster",
@@ -5678,7 +6114,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Onyxia",
@@ -5691,7 +6128,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Opal Striker",
@@ -5704,7 +6142,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Overloaded Blaster",
@@ -5717,7 +6156,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "P90",
@@ -5730,7 +6170,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Pearl God",
@@ -5743,7 +6184,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Pestilent Defiler",
@@ -5756,7 +6198,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Phangasm",
@@ -5769,7 +6212,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Photoviscerator",
@@ -5782,7 +6226,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Plague Tainted SMG",
@@ -5795,7 +6240,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Planetary Annihilation",
@@ -5808,7 +6254,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Polaris Parrotfish",
@@ -5821,7 +6268,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Prideful Hunter's Planar Ripper",
@@ -5834,7 +6282,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Pristine Fury",
@@ -5847,7 +6296,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Pumpler",
@@ -5860,7 +6310,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Realm Ravager",
@@ -5873,7 +6324,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Reed Blowgun",
@@ -5886,7 +6338,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Rubico Prime",
@@ -5899,7 +6352,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "SDFMG",
@@ -5912,7 +6366,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Sandstorm",
@@ -5925,7 +6380,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Scorched Earth",
@@ -5938,7 +6394,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Scorpio",
@@ -5951,7 +6408,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Seadragon",
@@ -5964,7 +6422,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Sea's Searing",
@@ -5977,7 +6436,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Septic Skewer",
@@ -5990,7 +6450,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Shadethrower",
@@ -6003,7 +6464,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Shellshooter",
@@ -6016,7 +6478,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Shredder",
@@ -6029,7 +6492,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Shroomer",
@@ -6042,7 +6506,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Slag Magnum",
@@ -6055,7 +6520,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Soma Prime",
@@ -6068,7 +6534,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Spark Spreader",
@@ -6081,7 +6548,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Spectralstorm Cannon",
@@ -6094,7 +6562,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Speed Blaster",
@@ -6107,7 +6576,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Spyker",
@@ -6120,7 +6590,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Star Sputter",
@@ -6133,7 +6604,8 @@
     "knockback": 15,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Starfleet",
@@ -6146,7 +6618,8 @@
     "knockback": 15,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Starmada",
@@ -6159,7 +6632,8 @@
     "knockback": 15,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Starmageddon",
@@ -6172,7 +6646,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Stellar Cannon",
@@ -6185,7 +6660,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Storm Dragoon",
@@ -6198,7 +6674,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Storm Surge",
@@ -6211,7 +6688,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Sulphuric Acid Cannon",
@@ -6224,7 +6702,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Surge Driver",
@@ -6237,7 +6716,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Svantechnical",
@@ -6250,7 +6730,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Telluric Glare",
@@ -6263,7 +6744,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Terra Flameburster",
@@ -6276,7 +6758,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "The Ballista",
@@ -6289,7 +6772,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "The Hive",
@@ -6302,7 +6786,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "The Jailor",
@@ -6315,7 +6800,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "The Maelstrom",
@@ -6328,7 +6814,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "The Pack",
@@ -6341,7 +6828,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "The Sevens Striker",
@@ -6354,7 +6842,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "The Storm",
@@ -6367,7 +6856,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Titanium Railgun",
@@ -6380,7 +6870,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Toxibow",
@@ -6393,7 +6884,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Tyranny's End",
@@ -6406,7 +6898,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Ultima",
@@ -6419,7 +6912,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Universal Genesis",
@@ -6432,7 +6926,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Voidragon",
@@ -6445,7 +6940,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Vortexpopper",
@@ -6458,7 +6954,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Wulfrum Blunderbuss",
@@ -6471,7 +6968,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Acidic Rain Barrel",
@@ -6484,7 +6982,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Adamantite Throwing Axe",
@@ -6497,7 +6996,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Alpha Virus",
@@ -6510,7 +7010,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Apoctolith",
@@ -6523,7 +7024,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Ashen Stalactite",
@@ -6536,7 +7038,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Auroradical Throw",
@@ -6549,7 +7052,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Ballistic Poison Bomb",
@@ -6562,7 +7066,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Blast Barrel",
@@ -6575,7 +7080,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Blazing Star",
@@ -6588,7 +7094,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Bloodsoaked Crasher",
@@ -6601,7 +7108,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Bouncing Eyeball",
@@ -6614,7 +7122,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Bouncy Spiky Ball",
@@ -6627,7 +7136,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Brackish Flask",
@@ -6640,7 +7150,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Brimblade",
@@ -6653,7 +7164,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Burning Strife",
@@ -6666,7 +7178,8 @@
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Celestial Reaper",
@@ -6679,7 +7192,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Celestus",
@@ -6692,7 +7206,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Cinquedea",
@@ -6705,7 +7220,8 @@
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Cobalt Kunai",
@@ -6718,7 +7234,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Consecrated Water",
@@ -6731,7 +7248,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Contaminated Bile",
@@ -6744,7 +7262,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Corpus Avertor",
@@ -6757,7 +7276,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Cosmic Kunai",
@@ -6770,7 +7290,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Cranium Smasher",
@@ -6783,7 +7304,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Crushsaw Crasher",
@@ -6796,7 +7318,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Crystal Piercer",
@@ -6809,7 +7332,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Crystalline",
@@ -6822,7 +7346,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Cursed Dagger",
@@ -6835,7 +7360,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Deep Sea Dumbbell",
@@ -6848,7 +7374,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Deep Wounder",
@@ -6861,7 +7388,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Defective Sphere",
@@ -6874,7 +7402,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Desecrated Water",
@@ -6887,7 +7416,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Duke's Decapitator",
@@ -6900,7 +7430,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Duststorm in a Bottle",
@@ -6913,7 +7444,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Dynamic Pursuer",
@@ -6926,7 +7458,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Eclipse's Fall",
@@ -6939,7 +7472,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Elemental Disk",
@@ -6952,7 +7486,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Enchanted Axe",
@@ -6965,7 +7500,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Epidemic Shredder",
@@ -6978,7 +7514,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Equanimity",
@@ -6991,7 +7528,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Eradicator",
@@ -7004,7 +7542,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Executioner's Blade",
@@ -7017,7 +7556,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Exorcism",
@@ -7030,7 +7570,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Fantasy Talisman",
@@ -7043,7 +7584,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Feather Knife",
@@ -7056,7 +7598,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "The Final Dawn",
@@ -7069,7 +7612,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Fishbone Boomerang",
@@ -7082,7 +7626,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Frostcrush Valari",
@@ -7095,7 +7640,8 @@
     "knockback": 12,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Frosty Flare",
@@ -7108,7 +7654,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Purple"
   },
   {
     "name": "Gacruxian Mollusk",
@@ -7121,7 +7668,8 @@
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Gel Dart",
@@ -7134,7 +7682,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Ghoulish Gouger",
@@ -7147,7 +7696,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Gilded Dagger",
@@ -7160,7 +7710,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Galvanizing Glaive",
@@ -7173,7 +7724,8 @@
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Gleaming Dagger",
@@ -7186,7 +7738,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Gods' Paranoia",
@@ -7199,7 +7752,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Grave Grimreaver",
@@ -7212,7 +7766,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Hardened Honeycomb",
@@ -7225,7 +7780,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Heavenfallen Stardisk",
@@ -7238,7 +7794,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Hell's Sun",
@@ -7251,7 +7808,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Hypothermia",
@@ -7264,7 +7822,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Ice Star",
@@ -7277,7 +7836,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Icebreaker",
@@ -7290,7 +7850,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Ichor Spear",
@@ -7303,7 +7864,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Infernal Kris",
@@ -7316,7 +7878,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Infested Clawmerang",
@@ -7329,7 +7892,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Iron Francisca",
@@ -7342,7 +7906,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "White"
   },
   {
     "name": "Jaws of Oblivion",
@@ -7355,7 +7920,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Kelvin Catalyst",
@@ -7368,7 +7934,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Kylie",
@@ -7381,7 +7948,8 @@
     "knockback": 12,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Lead Tomahawk",
@@ -7394,7 +7962,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "White"
   },
   {
     "name": "Leonid Progenitor",
@@ -7407,7 +7976,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Leviathan Teeth",
@@ -7420,7 +7990,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Lionfish",
@@ -7433,7 +8004,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Lunar Kunai",
@@ -7446,7 +8018,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Malachite",
@@ -7459,7 +8032,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Mangrove Chakram",
@@ -7472,7 +8046,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Metal Monstrosity",
@@ -7485,7 +8060,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Meteor Fist",
@@ -7498,7 +8074,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Molten Amputator",
@@ -7511,7 +8088,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Monkey Darts",
@@ -7524,7 +8102,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Mycoroot",
@@ -7537,7 +8116,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Mythril Knife",
@@ -7550,7 +8130,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Nanoblack Reaper",
@@ -7563,7 +8144,8 @@
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Nasty Cholla",
@@ -7576,7 +8158,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "White"
   },
   {
     "name": "Night's Gaze",
@@ -7589,7 +8172,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Nychthemeron",
@@ -7602,7 +8186,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Purple"
   },
   {
     "name": "Orichalcum Spiked Gemstone",
@@ -7615,7 +8200,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Palladium Javelin",
@@ -7628,7 +8214,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Penumbra",
@@ -7641,7 +8228,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Phantasmal Ruin",
@@ -7654,7 +8242,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Plaguenade",
@@ -7667,7 +8256,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Poison Pack",
@@ -7680,7 +8270,8 @@
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Prismalline",
@@ -7693,7 +8284,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Profaned Partisan",
@@ -7706,7 +8298,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Radiant Star",
@@ -7719,7 +8312,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Reality Rupture",
@@ -7732,7 +8326,8 @@
     "knockback": 9,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Refraction Rotor",
@@ -7745,7 +8340,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Regulus Riot",
@@ -7758,7 +8354,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Rot Ball",
@@ -7771,7 +8368,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Sacrifice",
@@ -7784,7 +8382,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Sand Dollar",
@@ -7797,7 +8396,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Sandslasher",
@@ -7810,7 +8410,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Scarlet Devil",
@@ -7823,7 +8424,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Scourge of the Desert",
@@ -7836,7 +8438,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Scourge of the Seas",
@@ -7849,7 +8452,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Seafoam Bomb",
@@ -7862,7 +8466,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Sealed Singularity",
@@ -7875,7 +8480,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Seared Pan",
@@ -7888,7 +8494,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Seraphim",
@@ -7901,7 +8508,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Shard of Antumbra",
@@ -7914,7 +8522,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Shattered Sun",
@@ -7927,7 +8536,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Shinobi Blade",
@@ -7940,7 +8550,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Shock Grenade",
@@ -7953,7 +8564,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Sky Stabber",
@@ -7966,7 +8578,8 @@
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Skyfin Bombers",
@@ -7979,7 +8592,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Slick Cane",
@@ -7992,7 +8606,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Sludge Splotch",
@@ -8005,7 +8620,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Snap Clam",
@@ -8018,7 +8634,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Spear of Destiny",
@@ -8031,7 +8648,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Purple"
   },
   {
     "name": "Spear of Paleolith",
@@ -8044,7 +8662,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Spent Fuel Container",
@@ -8057,7 +8676,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Star of Destruction",
@@ -8070,7 +8690,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Stellar Knife",
@@ -8083,7 +8704,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Sticky Spiky Ball",
@@ -8096,7 +8718,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Stormfront Razor",
@@ -8109,7 +8732,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Subduction Slicer",
@@ -8122,7 +8746,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Supernova",
@@ -8135,7 +8760,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Tarragon Throwing Dart",
@@ -8148,7 +8774,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Terra Disk",
@@ -8161,7 +8788,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Terror Talons",
@@ -8174,7 +8802,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Purple"
   },
   {
     "name": "The Atom Splitter",
@@ -8187,7 +8816,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "The Old Reaper",
@@ -8200,7 +8830,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "The Syringe",
@@ -8213,7 +8844,8 @@
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Throwing Brick",
@@ -8226,7 +8858,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "White"
   },
   {
     "name": "Time Bolt",
@@ -8239,7 +8872,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Titanium Shuriken",
@@ -8252,7 +8886,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Tooth Ball",
@@ -8265,7 +8900,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Totality Breakers",
@@ -8278,7 +8914,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Toxicant Twister",
@@ -8291,7 +8928,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Turbulance",
@@ -8304,7 +8942,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Twisting Thunder",
@@ -8317,7 +8956,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Urchin Stinger",
@@ -8330,7 +8970,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Utensil Poker",
@@ -8343,7 +8984,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Valediction",
@@ -8356,7 +8998,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Wave Skipper",
@@ -8369,7 +9012,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Web Ball",
@@ -8382,7 +9026,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "White"
   },
   {
     "name": "Wrathwing",
@@ -8395,7 +9040,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Wulfrum Knife",
@@ -8408,7 +9054,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Abandoned Slime Staff",
@@ -8421,7 +9068,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Ancient Ice Chunk",
@@ -8434,7 +9082,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Aqua's Scepter",
@@ -8447,7 +9096,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Ares' Exoskeleton",
@@ -8460,7 +9110,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Atlas Munitions Beacon",
@@ -8473,7 +9124,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Belladonna Spirit Staff",
@@ -8486,7 +9138,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Black Hawk Remote",
@@ -8499,7 +9152,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Borealis Bomber",
@@ -8512,20 +9166,22 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Brittle Star Staff",
     "damage": 10,
     "image": "https://calamitymod.wiki.gg/images/8/87/Brittle_Star_Staff.png",
-    "damageType": "classless",
+    "damageType": "Classless",
     "useTime": 32,
     "useTimeString": "Slow",
     "tooltip": "Summons a small brittle starfish that will dash through enemies until it shatters\nStarfish will quickly regenerate after shattering\nHolding right click will swap starfish between dashing and circling you\nWhen the starfish are circling, each one provides you with 3 defense",
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Cadaverous Carrion",
@@ -8538,7 +9194,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Calamari's Lament",
@@ -8551,7 +9208,8 @@
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Caustic Croaker Staff",
@@ -8564,7 +9222,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Caustic Staff",
@@ -8577,7 +9236,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Cinder Blossom Staff",
@@ -8590,7 +9250,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Cinders of Lament",
@@ -8603,7 +9264,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Cnidarian",
@@ -8616,7 +9278,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Corroslime Staff",
@@ -8629,7 +9292,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Corvid Harbinger Staff",
@@ -8642,7 +9306,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Cosmic Immaterializer",
@@ -8655,7 +9320,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Cosmic Viper Engine",
@@ -8668,7 +9334,8 @@
     "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Cosmilamp",
@@ -8681,7 +9348,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Crimslime Staff",
@@ -8694,7 +9362,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Cryogenic Staff",
@@ -8707,7 +9376,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Purple"
   },
   {
     "name": "Daedalus Golem Staff",
@@ -8720,7 +9390,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Dank Staff",
@@ -8733,7 +9404,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Dazzling Stabber Staff",
@@ -8746,7 +9418,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Deathstare Rod",
@@ -8759,7 +9432,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Deepsea Staff",
@@ -8772,7 +9446,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Dormant Brimseeker",
@@ -8785,7 +9460,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Dragonblood Disgorger",
@@ -8798,7 +9474,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Dreadmine Staff",
@@ -8811,7 +9488,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Elemental Axe",
@@ -8824,7 +9502,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Enchanted Conch",
@@ -8837,7 +9516,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Endo Hydra Staff",
@@ -8850,7 +9530,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Endogenesis",
@@ -8863,7 +9544,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Entropy's Vigil",
@@ -8876,7 +9558,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Ethereal Subjugator",
@@ -8889,7 +9572,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Eye of Night",
@@ -8902,7 +9586,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Flamsteed Ring",
@@ -8915,7 +9600,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Flesh of Infidelity",
@@ -8928,7 +9614,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Flowers of Mortality",
@@ -8941,7 +9628,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Forgotten Apex Wand",
@@ -8954,7 +9642,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Frost Blossom Staff",
@@ -8967,7 +9656,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Fuel Cell Bundle",
@@ -8980,7 +9670,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Gamma Heart",
@@ -8993,7 +9684,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Gastric Belcher Staff",
@@ -9006,7 +9698,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Glacial Embrace",
@@ -9019,7 +9712,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Guidelight of Oblivion",
@@ -9032,7 +9726,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Haunted Scroll",
@@ -9045,7 +9740,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Herring Staff",
@@ -9058,7 +9754,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Hive Pod",
@@ -9071,7 +9768,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Igneous Exaltation",
@@ -9084,7 +9782,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Infected Remote",
@@ -9097,7 +9796,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "King of Constellations, Tenryū",
@@ -9110,7 +9810,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Metastasis",
@@ -9123,7 +9824,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Midnight Sun Beacon",
@@ -9136,7 +9838,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Mirror of Kalandra",
@@ -9149,7 +9852,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Mutated Truffle",
@@ -9162,7 +9866,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Orthocera Shell",
@@ -9175,7 +9880,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Perdition",
@@ -9188,7 +9894,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Plantation Staff",
@@ -9201,7 +9908,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Polyp Launcher",
@@ -9214,7 +9922,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "White"
   },
   {
     "name": "Puff Shroom",
@@ -9227,7 +9936,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Resurrection Butterfly",
@@ -9240,7 +9950,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Rusty Beacon Prototype",
@@ -9253,7 +9964,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Sanctified Spark",
@@ -9266,7 +9978,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Sand Sharknado Staff",
@@ -9279,7 +9992,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Saros Possession",
@@ -9292,7 +10006,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Scab Ripper",
@@ -9305,7 +10020,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Shellfish Staff",
@@ -9318,7 +10034,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Sirius",
@@ -9331,7 +10048,8 @@
     "knockback": 10,
     "knockbackString": "Extremely strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pure Green"
   },
   {
     "name": "Slime Puppet Staff",
@@ -9344,7 +10062,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Spikecrag Staff",
@@ -9357,7 +10076,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Squirrel Squire Staff",
@@ -9370,7 +10090,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "White"
   },
   {
     "name": "Staff of Necrosteocytes",
@@ -9383,7 +10104,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Staff of the Mechworm",
@@ -9396,7 +10118,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Dark Blue"
   },
   {
     "name": "Starspawn Helix Staff",
@@ -9409,7 +10132,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Stellar Torus Staff",
@@ -9422,7 +10146,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Stormjaw Staff",
@@ -9435,7 +10160,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Sun Spirit Staff",
@@ -9448,7 +10174,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Tactical Plague Engine",
@@ -9461,7 +10188,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Temporal Umbrella",
@@ -9474,7 +10202,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Tundra Flame Blossoms Staff",
@@ -9487,7 +10216,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Universe Splitter",
@@ -9500,7 +10230,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Hot Pink"
   },
   {
     "name": "Vengeful Sun Staff",
@@ -9513,7 +10244,8 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Purple"
   },
   {
     "name": "Vigilance",
@@ -9526,7 +10258,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Vile Feeder",
@@ -9539,7 +10272,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Green"
   },
   {
     "name": "Viral Sprout",
@@ -9552,7 +10286,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Lime"
   },
   {
     "name": "Virid Vanguard",
@@ -9565,7 +10300,8 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Red"
   },
   {
     "name": "Void Concentration Staff",
@@ -9578,7 +10314,8 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Warloks' Moon Fist",
@@ -9591,7 +10328,8 @@
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Wither Blossoms Staff",
@@ -9604,7 +10342,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Wulfrum Controller",
@@ -9617,7 +10356,8 @@
     "knockback": 0,
     "knockbackString": "No Knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Blue"
   },
   {
     "name": "Yharon's Kindle Staff",
@@ -9630,7 +10370,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Violet"
   },
   {
     "name": "Aestheticus",
@@ -9643,7 +10384,8 @@
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Eye of Magnus",
@@ -9656,20 +10398,22 @@
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Cyan"
   },
   {
     "name": "Golden Gun",
     "damage": 5,
     "image": "https://calamitymod.wiki.gg/images/0/0f/Golden_Gun.png",
-    "damageType": "classless",
+    "damageType": "Classless",
     "useTime": 15,
     "useTimeString": "Very fast",
     "tooltip": "Shoots a straight line of pure ichor",
     "knockback": 2,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Lunic Eye",
@@ -9682,72 +10426,78 @@
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Light Red"
   },
   {
     "name": "Relic of Deliverance",
     "damage": 1350,
     "image": "https://calamitymod.wiki.gg/images/b/b2/Relic_of_Deliverance.png",
-    "damageType": "classless",
+    "damageType": "Classless",
     "useTime": 25,
     "useTimeString": "Fast",
     "tooltip": "Press <left> to begin charging up a lunging spear attack\nPress <left> again to release the charge and lunge towards the cursor\nPressing <left> while lunging to redirect the lunge to the cursor\nHolding any other item will cancel the charge",
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Relic of Resilience",
     "damage": null,
     "image": "https://calamitymod.wiki.gg/images/f/fc/Relic_of_Resilience.png",
-    "damageType": "classless",
+    "damageType": "Classless",
     "useTime": 28,
     "useTimeString": "Average",
     "tooltip": "Summons an artifact at the mouse position\nThe artifact is damaged by enemies and all projectiles\nWhen destroyed, the artifact explodes into a rotating burst of shards\nIf an enemy is in the area of the shards, its next attack will be 45% weaker\nThis effect has a cooldown\nAfter 5 seconds, the shards come together to reform the original artifact\nThis reformation can happen 3 times before needing to be re-summoned\nYou gain a 5 second cooldown when summoning a new artifact\nIf an artifact already exists, using this item again will relocate it to the cursor",
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Skynamite",
     "damage": null,
     "image": "https://calamitymod.wiki.gg/images/1/1a/Skynamite.png",
-    "damageType": "classless",
+    "damageType": "Classless",
     "useTime": 40,
     "useTimeString": "Very slow",
     "tooltip": "Throws a floaty explosive that defies gravity\n'You don't need an aerodynamics major to use this...'",
     "knockback": null,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Star Struck Water",
     "damage": 20,
     "image": "https://calamitymod.wiki.gg/images/1/18/Star_Struck_Water.png",
-    "damageType": "classless",
+    "damageType": "Classless",
     "useTime": 15,
     "useTimeString": "Very fast",
     "tooltip": "Spreads the Astral Infection to some blocks",
     "knockback": 3,
     "knockbackString": "Very weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   },
   {
     "name": "Yanmei's Knife",
     "damage": 8,
     "image": "https://calamitymod.wiki.gg/images/a/a7/Yanmei%27s_Knife.png",
-    "damageType": "classless",
+    "damageType": "Classless",
     "useTime": 32,
     "useTimeString": "Slow",
     "tooltip": "Enemies you hit are crippled\nHits will also give you enhanced movement speed and damage for 10 seconds\n'A knife from an unknown world\nAn owner whose heart is pure and free of taint\nA heart of iron and valor'",
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Yellow"
   },
   {
     "name": "Inferna Cutter",
@@ -9760,7 +10510,8 @@
     "knockback": 7,
     "knockbackString": "Strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Pink"
   },
   {
     "name": "Grax",
@@ -9773,7 +10524,8 @@
     "knockback": 8,
     "knockbackString": "Very strong knockback",
     "obtained": "Crafting",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Turquoise"
   },
   {
     "name": "Dragoon Drizzlefish",
@@ -9786,6 +10538,7 @@
     "knockback": 1,
     "knockbackString": "Extremely weak knockback",
     "obtained": "Other",
-    "source": "calamity"
+    "source": "calamity",
+    "rarity": "Orange"
   }
 ]
