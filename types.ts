@@ -50,6 +50,29 @@ type DamageType =
   | "Rogue"
   | "Classless";
 
+type Rarity =
+  | "Grey"
+  | "White"
+  | "Blue"
+  | "Green"
+  | "Orange"
+  | "Light Red"
+  | "Pink"
+  | "Light Purple"
+  | "Lime"
+  | "Yellow"
+  | "Cyan"
+  | "Red"
+  | "Purple"
+  | "Turquoise"
+  | "Pure Green"
+  | "Dark Blue"
+  | "Violet"
+  | "Hot Pink"
+  | "Calamity Red"
+  | "Dark Orange"
+  | "Rainbow";
+
 type Obtained = "Crafting" | "Other";
 
 type ItemType = "calamity" | "vanilla";
@@ -66,6 +89,7 @@ interface Weapon {
   knockbackString: Knockback;
   obtained: Obtained;
   source: ItemType;
+  rarity: Rarity;
 }
 
 interface externalWeapon {
@@ -88,6 +112,7 @@ export {
   ItemType,
   Weapon,
   externalWeapon,
+  Rarity,
   KnockbackGuess,
   UseTimeGuess,
 };

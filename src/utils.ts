@@ -1,6 +1,6 @@
 import { join } from "path";
 import { readdirSync, statSync } from "fs";
-import { DamageType, Knockback, UseTime } from "../types";
+import { DamageType, Knockback, UseTime, Rarity } from "../types";
 
 function findPaths(basePath: string, regex: RegExp): string[] {
   let foundPaths: string[] = [];
@@ -93,6 +93,61 @@ function correctDamageType(damageype: string): DamageType {
   }
 }
 
+function ParseRarity(rarity: string): Rarity {
+  // Parse Calaminity Mod rarities
+  if (rarity == "ModContent.RarityType<HotPink>()") {
+    return "Hot Pink";
+  } else if (rarity == "ModContent.RarityType<CalamityRed>()") {
+    return "Calamity Red";
+  } else if (rarity == "ModContent.RarityType<DarkOrange>()") {
+    return "Dark Orange";
+  } else if (
+    rarity == "ModContent.RarityType<DarkBlue>()" ||
+    rarity == "RarityType<DarkBlue>()"
+  ) {
+    return "Dark Blue";
+  } else if (rarity == "ModContent.RarityType<PureGreen>()") {
+    return "Pure Green";
+  } else if (rarity == "ModContent.RarityType<Rainbow>()") {
+    return "Rainbow";
+  } else if (rarity == "ModContent.RarityType<Turquoise>()") {
+    return "Turquoise";
+  } else if (
+    rarity == "ModContent.RarityType<Violet>()" ||
+    rarity == "RarityType<Violet>()"
+  ) {
+    return "Violet";
+  } else if (rarity == "ItemRarityID.White") {
+    // start Parsing Vanilla rarities
+    return "White";
+  } else if (rarity == "ItemRarityID.Blue") {
+    return "Blue";
+  } else if (rarity == "ItemRarityID.Green") {
+    return "Green";
+  } else if (rarity == "ItemRarityID.Orange") {
+    return "Orange";
+  } else if (rarity == "ItemRarityID.LightRed") {
+    return "Light Red";
+  } else if (rarity == "ItemRarityID.Pink") {
+    return "Pink";
+  } else if (rarity == "ItemRarityID.LightPurple") {
+    return "Light Purple";
+  } else if (rarity == "ItemRarityID.Lime") {
+    return "Lime";
+  } else if (rarity == "ItemRarityID.Yellow") {
+    return "Yellow";
+  } else if (rarity == "ItemRarityID.Cyan") {
+    return "Cyan";
+  } else if (rarity == "ItemRarityID.Red") {
+    return "Red";
+  } else if (rarity == "ItemRarityID.Purple") {
+    return "Purple";
+  } else {
+    console.log(rarity);
+    return "White";
+  }
+}
+
 function parseTooltip(tooltip: string): string {
   const regex = /\[c\/([0-9A-Fa-f]{6}):'([^'\]]*)('|\])/g;
 
@@ -111,4 +166,5 @@ export {
   speedToString,
   correctDamageType,
   parseTooltip,
+  ParseRarity,
 };

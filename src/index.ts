@@ -5,12 +5,13 @@ import {
   speedToString,
   knockbackToString,
   parseTooltip,
+  ParseRarity,
 } from "./utils";
 import { Weapon, Obtained, ItemType } from "../types";
 import { LocalizationHandler } from "./LocalizationHandler";
 
 const localContent = new LocalizationHandler(
-  "./CalamityModPublic/Localization/en-US",
+  "./CalamityModPublic/Localization/en-US"
 );
 
 // const _imageOverrides = {
@@ -68,6 +69,7 @@ async function getStats(path: string): Promise<Weapon> {
     const path2 = matches[0].slice(0, -1);
     imagePath = imageBasePath + path2;
   }
+  const rarity = ParseRarity(getstat(stats, "rare"));
 
   const finalStats = {
     name: localized.DisplayName,
@@ -75,17 +77,18 @@ async function getStats(path: string): Promise<Weapon> {
     image: imagePath,
     damageType:
       getstat(stats, "DamageType") == ""
-        ? "classless"
+        ? "Classless"
         : correctDamageType(getstat(stats, "DamageType")),
     useTime: parseInt(getstat(stats, "useTime")),
     useTimeString: speedToString(parseInt(getstat(stats, "useTime"))),
     tooltip: localized.Tooltip ? parseTooltip(localized.Tooltip) : "",
     knockback: parseInt(getstat(stats, "knockBack").replaceAll(/f/g, "")),
     knockbackString: knockbackToString(
-      parseInt(getstat(stats, "knockBack").replaceAll(/f/g, "")),
+      parseInt(getstat(stats, "knockBack").replaceAll(/f/g, ""))
     ),
     obtained,
     source: "calamity" as ItemType,
+    rarity,
   };
   return finalStats;
 }
