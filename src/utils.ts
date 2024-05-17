@@ -118,7 +118,6 @@ function ParseRarity(rarity: string): Rarity {
   ) {
     return "Violet";
   } else if (rarity == "ItemRarityID.White") {
-    // start Parsing Vanilla rarities
     return "White";
   } else if (rarity == "ItemRarityID.Blue") {
     return "Blue";

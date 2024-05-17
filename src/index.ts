@@ -70,7 +70,17 @@ async function getStats(path: string): Promise<Weapon> {
     imagePath = imageBasePath + path2;
   }
   const rarity = ParseRarity(getstat(stats, "rare"));
-
+  // console.log(rarity);
+  // if (rarity == "White") {
+  //   console.log(localized.DisplayName, path, rarity, getstat(stats, "rare"));
+  // }
+  if (!parseInt(getstat(stats, "knockBack"))) {
+    console.log(
+      localized.DisplayName,
+      path,
+      getstat(stats, "knockBack").replaceAll(/f/g, "")
+    );
+  }
   const finalStats = {
     name: localized.DisplayName,
     damage: parseInt(getstat(stats, "damage")),
