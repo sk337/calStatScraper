@@ -61,7 +61,7 @@ function speedToString(speed: number): UseTime {
   }
 }
 
-function correctDamageType(damageype: string): DamageType {
+function correctDamageType(damageype: string, weaponPath: string): DamageType {
   const damageType = damageype.split(".")[1];
   if (damageType == "Melee" || damageType == "MeleeNoSpeed") {
     return "Melee";
@@ -84,16 +84,23 @@ function correctDamageType(damageype: string): DamageType {
     } else if (damage == "AverageDamageClass") {
       return "Classless";
     }
-
-    console.log(damageype);
+    console.log("invalid damageType");
+    console.log(damageType, weaponPath);
+    console.log("===========");
     return "Melee";
   } else {
-    console.log(damageype);
+    console.log("invalid damageType");
+    console.log(damageType, weaponPath);
+    console.log("===========");
     return "Melee";
   }
 }
 
-function ParseRarity(rarity: string): Rarity {
+function ParseRarity(
+  rarity: string,
+  weaponPath: string,
+  stats: string[]
+): Rarity {
   // Parse Calaminity Mod rarities
   if (rarity == "ModContent.RarityType<HotPink>()") {
     return "Hot Pink";
@@ -142,7 +149,9 @@ function ParseRarity(rarity: string): Rarity {
   } else if (rarity == "ItemRarityID.Purple") {
     return "Purple";
   } else {
-    console.log(rarity);
+    console.log("invalid Rarity");
+    console.log(rarity, weaponPath, stats);
+    console.log("===========");
     return "White";
   }
 }

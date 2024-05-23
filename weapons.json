@@ -371,8 +371,8 @@
     "useTime": 19,
     "useTimeString": "Very fast",
     "tooltip": "Fires an erratic lightning bolt that arcs and bounces between enemies",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Other",
     "source": "calamity",
     "rarity": "Orange"
@@ -698,6 +698,20 @@
     "obtained": "Crafting",
     "source": "calamity",
     "rarity": "Pink"
+  },
+  {
+    "name": "Chronomancer's Scythe",
+    "damage": 159,
+    "image": "https://calamitymod.wiki.gg/images/2/20/Chronomancer%27s_Scythe.png",
+    "damageType": "Magic",
+    "useTime": 5,
+    "useTimeString": "Insanely fast",
+    "tooltip": "Rapidly fires icicles\nPress <right> to swing the scythe around you, creating a clock pattern of homing icicles\nDirect hits with the scythe have a chance to spawn clocks\nCollecting the clocks increases movement speed and acceleration by 5% for each clock collected\nThis stacks up to 3 times and each level wears off after 5 seconds",
+    "knockback": 4,
+    "knockbackString": "Weak knockback",
+    "obtained": "Crafting",
+    "source": "calamity",
+    "rarity": "Purple"
   },
   {
     "name": "Clamor Noctus",
@@ -1051,7 +1065,7 @@
   },
   {
     "name": "Genesis Pickaxe",
-    "damage": 60,
+    "damage": 65,
     "image": "https://calamitymod.wiki.gg/images/6/67/Genesis_Pickaxe.png",
     "damageType": "Magic",
     "useTime": 4,
@@ -1512,13 +1526,13 @@
     "rarity": "Violet"
   },
   {
-    "name": "Photosynthesis Potion",
+    "name": "Photosynthesis",
     "damage": 60,
-    "image": "https://calamitymod.wiki.gg/images/4/4e/Photosynthesis_Potion.png",
+    "image": "https://calamitymod.wiki.gg/images/e/e0/Photosynthesis.png",
     "damageType": "Magic",
     "useTime": 24,
     "useTimeString": "Fast",
-    "tooltip": "You regen life quickly while not moving, this effect is five times as strong during daytime\nDropped hearts heal more HP",
+    "tooltip": "Casts a brilliant ray that dissolves into energy on enemy hits\nMore energy is created the farther along the ray the hit enemy is",
     "knockback": 4,
     "knockbackString": "Weak knockback",
     "obtained": "Crafting",
@@ -1953,11 +1967,11 @@
     "useTime": 10,
     "useTimeString": "Very fast",
     "tooltip": "Fires a channeled beam of pinpoint-accurate lightning\nThe beam has limited turning speed capability\nEach successive hit on the same enemy increases damage per hit\nThe damage increases 10% per hit to a maximum of 500% damage\nThis damage will rapidly decrease after the enemy stops being hit",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Crafting",
     "source": "calamity",
-    "rarity": "White"
+    "rarity": "Turquoise"
   },
   {
     "name": "The Dance of Light",
@@ -1995,8 +2009,8 @@
     "useTime": 12,
     "useTimeString": "Very fast",
     "tooltip": "Fires a swarm of bees and wasps",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Crafting",
     "source": "calamity",
     "rarity": "Red"
@@ -2032,7 +2046,7 @@
   {
     "name": "Thunderstorm",
     "damage": 132,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/7/79/Thunderstorm_%28weapon%29.png",
     "damageType": "Magic",
     "useTime": 24,
     "useTimeString": "Fast",
@@ -2078,7 +2092,7 @@
     "damageType": "Magic",
     "useTime": 3,
     "useTimeString": "Insanely fast",
-    "tooltip": "Summons liquidation blades that summon more blades on enemy hits\nThe blades inflict ichor, cursed inferno and brimstone flames",
+    "tooltip": "Summons liquidation blades that summon more blades on enemy hits",
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
@@ -2088,7 +2102,7 @@
   {
     "name": "Undine's Retribution",
     "damage": 46,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/4/40/Undine%27s_Retribution.png",
     "damageType": "Magic",
     "useTime": 18,
     "useTimeString": "Very fast",
@@ -2255,7 +2269,7 @@
   },
   {
     "name": "Wingman",
-    "damage": 71,
+    "damage": 82,
     "image": "https://calamitymod.wiki.gg/images/0/09/Wingman.png",
     "damageType": "Magic",
     "useTime": 15,
@@ -2340,7 +2354,7 @@
   {
     "name": "Absolute Zero",
     "damage": 75,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/b/b4/Absolute_Zero.png",
     "damageType": "Melee",
     "useTime": 20,
     "useTimeString": "Very fast",
@@ -2382,7 +2396,7 @@
   {
     "name": "Aftershock",
     "damage": 65,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/3/32/Aftershock.png",
     "damageType": "Melee",
     "useTime": 28,
     "useTimeString": "Average",
@@ -2605,7 +2619,7 @@
   },
   {
     "name": "Basher",
-    "damage": 41,
+    "damage": 50,
     "image": "https://calamitymod.wiki.gg/images/c/c3/Basher.png",
     "damageType": "Melee",
     "useTime": 40,
@@ -2662,7 +2676,7 @@
   {
     "name": "Botanic Piercer",
     "damage": 88,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/9/90/Botanic_Piercer.png",
     "damageType": "Melee",
     "useTime": 17,
     "useTimeString": "Very fast",
@@ -2746,7 +2760,7 @@
   {
     "name": "Burning Revelation",
     "damage": 120,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/6/67/Burning_Revelation.png",
     "damageType": "Melee",
     "useTime": 20,
     "useTimeString": "Very fast",
@@ -2772,13 +2786,13 @@
     "rarity": "Blue"
   },
   {
-    "name": "Carnage Ray",
+    "name": "Carnage",
     "damage": 130,
-    "image": "https://calamitymod.wiki.gg/images/7/73/Carnage_Ray.png",
+    "image": "https://calamitymod.wiki.gg/images/4/4f/Carnage.png",
     "damageType": "Melee",
     "useTime": 21,
     "useTimeString": "Fast",
-    "tooltip": "Fires a wretched, bloody ray\nThe farther along the ray hit enemies are, the more damage they take",
+    "tooltip": "Enemies explode into homing blood on death",
     "knockback": 5,
     "knockbackString": "Average knockback",
     "obtained": "Other",
@@ -2802,7 +2816,7 @@
   {
     "name": "Celestial Claymore",
     "damage": 59,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/3/34/Celestial_Claymore.png",
     "damageType": "Melee",
     "useTime": 24,
     "useTimeString": "Fast",
@@ -2812,20 +2826,6 @@
     "obtained": "Other",
     "source": "calamity",
     "rarity": "Light Red"
-  },
-  {
-    "name": "Chronomancer's Scythe",
-    "damage": 159,
-    "image": "https://calamitymod.wiki.gg/images/2/20/Chronomancer%27s_Scythe.png",
-    "damageType": "Melee",
-    "useTime": 5,
-    "useTimeString": "Insanely fast",
-    "tooltip": "Rapidly fires icicles\nPress <right> to swing the scythe around you, creating a clock pattern of homing icicles\nDirect hits with the scythe have a chance to spawn clocks\nCollecting the clocks increases movement speed and acceleration by 5% for each clock collected\nThis stacks up to 3 times and each level wears off after 5 seconds",
-    "knockback": 4,
-    "knockbackString": "Weak knockback",
-    "obtained": "Crafting",
-    "source": "calamity",
-    "rarity": "Purple"
   },
   {
     "name": "Clam Crusher",
@@ -2941,7 +2941,7 @@
   },
   {
     "name": "Depth Crusher",
-    "damage": 35,
+    "damage": 48,
     "image": "https://calamitymod.wiki.gg/images/8/8e/Depth_Crusher.png",
     "damageType": "Melee",
     "useTime": 65,
@@ -2956,7 +2956,7 @@
   {
     "name": "Devastation",
     "damage": 132,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/8/8c/Devastation.png",
     "damageType": "Melee",
     "useTime": 24,
     "useTimeString": "Fast",
@@ -3082,7 +3082,7 @@
   {
     "name": "Elemental Lance",
     "damage": 160,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/9/99/Elemental_Lance.png",
     "damageType": "Melee",
     "useTime": 30,
     "useTimeString": "Average",
@@ -3586,7 +3586,7 @@
   {
     "name": "Lacerator",
     "damage": 130,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/8/88/Lacerator.png",
     "damageType": "Melee",
     "useTime": 20,
     "useTimeString": "Very fast",
@@ -4048,7 +4048,7 @@
   {
     "name": "Sausage Maker",
     "damage": 36,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/6/6a/Sausage_Maker.png",
     "damageType": "Melee",
     "useTime": 20,
     "useTimeString": "Very fast",
@@ -4286,7 +4286,7 @@
   {
     "name": "Sulphurous Grabber",
     "damage": 40,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/0/05/Sulphurous_Grabber.png",
     "damageType": "Melee",
     "useTime": 25,
     "useTimeString": "Fast",
@@ -4426,7 +4426,7 @@
   {
     "name": "The God's Gambit",
     "damage": 26,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/0/05/The_God%27s_Gambit.png",
     "damageType": "Melee",
     "useTime": 21,
     "useTimeString": "Fast",
@@ -4496,7 +4496,7 @@
   {
     "name": "The Oracle",
     "damage": 205,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/a/a1/The_Oracle.png",
     "damageType": "Melee",
     "useTime": 20,
     "useTimeString": "Very fast",
@@ -4650,7 +4650,7 @@
   {
     "name": "Vein Burster",
     "damage": 42,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/1/11/Vein_Burster.png",
     "damageType": "Melee",
     "useTime": 41,
     "useTimeString": "Very slow",
@@ -4678,7 +4678,7 @@
   {
     "name": "Virulence",
     "damage": 100,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/0/00/Virulence.png",
     "damageType": "Melee",
     "useTime": 15,
     "useTimeString": "Very fast",
@@ -4748,7 +4748,7 @@
   {
     "name": "Yateveo Bloom",
     "damage": 30,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/6/61/Yateveo_Bloom.png",
     "damageType": "Melee",
     "useTime": 22,
     "useTimeString": "Fast",
@@ -4790,7 +4790,7 @@
   {
     "name": "Adamantite Particle Accelerator",
     "damage": 65,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/c/c4/Adamantite_Particle_Accelerator.png",
     "damageType": "Ranged",
     "useTime": null,
     "useTimeString": "Snail",
@@ -4803,7 +4803,7 @@
   },
   {
     "name": "Alluvion",
-    "damage": 78,
+    "damage": 83,
     "image": "https://calamitymod.wiki.gg/images/2/23/Alluvion.png",
     "damageType": "Ranged",
     "useTime": 15,
@@ -5014,7 +5014,7 @@
   {
     "name": "Barinade",
     "damage": 5,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/0/09/Barinade.png",
     "damageType": "Ranged",
     "useTime": 24,
     "useTimeString": "Fast",
@@ -5042,7 +5042,7 @@
   {
     "name": "Barracuda Gun",
     "damage": 56,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/9/9a/Barracuda_Gun.png",
     "damageType": "Ranged",
     "useTime": 20,
     "useTimeString": "Very fast",
@@ -5238,7 +5238,7 @@
   {
     "name": "Clockwork Bow",
     "damage": 770,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/5/5b/Clockwork_Bow.png",
     "damageType": "Ranged",
     "useTime": 30,
     "useTimeString": "Average",
@@ -5266,7 +5266,7 @@
   {
     "name": "Conference Call",
     "damage": 53,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/9/9a/Conference_Call.png",
     "damageType": "Ranged",
     "useTime": 42,
     "useTimeString": "Very slow",
@@ -5364,7 +5364,7 @@
   {
     "name": "Daemon's Flame",
     "damage": 150,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/f/fe/Daemon%27s_Flame.png",
     "damageType": "Ranged",
     "useTime": 12,
     "useTimeString": "Very fast",
@@ -5378,7 +5378,7 @@
   {
     "name": "Darkecho Greatbow",
     "damage": 45,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/6/64/Darkecho_Greatbow.png",
     "damageType": "Ranged",
     "useTime": 33,
     "useTimeString": "Slow",
@@ -5392,7 +5392,7 @@
   {
     "name": "Dead Sun's Wind",
     "damage": 100,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/2/25/Dead_Sun%27s_Wind.png",
     "damageType": "Ranged",
     "useTime": 22,
     "useTimeString": "Fast",
@@ -5406,7 +5406,7 @@
   {
     "name": "Deathwind",
     "damage": 148,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/c/c4/Deathwind.png",
     "damageType": "Ranged",
     "useTime": 14,
     "useTimeString": "Very fast",
@@ -5448,7 +5448,7 @@
   {
     "name": "Dodu's Handcannon",
     "damage": 1020,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/8/89/Dodu%27s_Handcannon.png",
     "damageType": "Ranged",
     "useTime": 30,
     "useTimeString": "Average",
@@ -5457,7 +5457,7 @@
     "knockbackString": "Average knockback",
     "obtained": "Crafting",
     "source": "calamity",
-    "rarity": "White"
+    "rarity": "Pure Green"
   },
   {
     "name": "Dragon's Breath",
@@ -5504,7 +5504,7 @@
   {
     "name": "Elemental Eruption",
     "damage": 94,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/e/e6/Elemental_Eruption.png",
     "damageType": "Ranged",
     "useTime": 6,
     "useTimeString": "Insanely fast",
@@ -5579,8 +5579,8 @@
     "useTime": null,
     "useTimeString": "Snail",
     "tooltip": "Fires pairs of abyssal flak shells that explode into wide cones of ink shrapnel\nAbyssal flak shells burst when they reach the cursor's position\nDirect hits with the flak shell will deal reduced shrapnel damage",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Crafting",
     "source": "calamity",
     "rarity": "Lime"
@@ -5592,9 +5592,9 @@
     "damageType": "Ranged",
     "useTime": 44,
     "useTimeString": "Very slow",
-    "tooltip": "Fires a toxic shell that explodes into a cone of radioactive sludge\nToxic shells burst when they reach the cursor's position\nDirect hits with the toxic shell will reduce the damage dealt by the sludge",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "tooltip": "Fires a toxic shell that explodes into a cone of radioactive sludge\nToxic shells burst when they reach the cursor's position\nDirect hits with the toxic shell will reduce the damage dealt by the sludge\nUses rockets for ammo",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Other",
     "source": "calamity",
     "rarity": "Pink"
@@ -5770,7 +5770,7 @@
   {
     "name": "Havoc's Breath",
     "damage": 74,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/1/1d/Havoc%27s_Breath.png",
     "damageType": "Ranged",
     "useTime": 5,
     "useTimeString": "Insanely fast",
@@ -5812,7 +5812,7 @@
   {
     "name": "Helstorm",
     "damage": 33,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/b/b9/Helstorm.png",
     "damageType": "Ranged",
     "useTime": 9,
     "useTimeString": "Very fast",
@@ -5966,7 +5966,7 @@
   {
     "name": "Marksman Bow",
     "damage": 35,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/c/cc/Marksman_Bow.png",
     "damageType": "Ranged",
     "useTime": 18,
     "useTimeString": "Very fast",
@@ -6026,7 +6026,7 @@
     "damageType": "Ranged",
     "useTime": 60,
     "useTimeString": "Snail",
-    "tooltip": "Shoots an onyx bomb that explodes into huge area damage",
+    "tooltip": "Shoots an onyx bomb that explodes into huge area damage\nUses rockets for ammo",
     "knockback": 20,
     "knockbackString": "Insane knockback",
     "obtained": "Crafting",
@@ -6091,17 +6091,17 @@
   },
   {
     "name": "Nitro Express Rifle",
-    "damage": 1350,
+    "damage": 210,
     "image": "https://calamitymod.wiki.gg/images/0/05/Nitro_Express_Rifle.png",
     "damageType": "Ranged",
-    "useTime": 80,
+    "useTime": 70,
     "useTimeString": "Snail",
     "tooltip": "The recoil feels strong enough to break your shoulder...]",
-    "knockback": 8,
-    "knockbackString": "Very strong knockback",
+    "knockback": 7,
+    "knockbackString": "Strong knockback",
     "obtained": "Crafting",
     "source": "calamity",
-    "rarity": "Pure Green"
+    "rarity": "Light Red"
   },
   {
     "name": "Norfleet",
@@ -6231,7 +6231,7 @@
   },
   {
     "name": "Phangasm",
-    "damage": 87,
+    "damage": 117,
     "image": "https://calamitymod.wiki.gg/images/9/98/Phangasm.png",
     "damageType": "Ranged",
     "useTime": 12,
@@ -6428,7 +6428,7 @@
   {
     "name": "Scorpio",
     "damage": 33,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/6/69/Scorpio.png",
     "damageType": "Ranged",
     "useTime": null,
     "useTimeString": "Snail",
@@ -6470,7 +6470,7 @@
   {
     "name": "Septic Skewer",
     "damage": 272,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/7/7e/Septic_Skewer.png",
     "damageType": "Ranged",
     "useTime": 12,
     "useTimeString": "Very fast",
@@ -6610,7 +6610,7 @@
   {
     "name": "Spyker",
     "damage": 210,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/d/d4/Spyker.png",
     "damageType": "Ranged",
     "useTime": 13,
     "useTimeString": "Very fast",
@@ -6652,7 +6652,7 @@
   {
     "name": "Starmada",
     "damage": 135,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/c/cd/Starmada.png",
     "damageType": "Ranged",
     "useTime": 27,
     "useTimeString": "Average",
@@ -6666,7 +6666,7 @@
   {
     "name": "Starmageddon",
     "damage": 100,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/f/fd/Starmageddon.png",
     "damageType": "Ranged",
     "useTime": 30,
     "useTimeString": "Average",
@@ -6750,7 +6750,7 @@
   {
     "name": "Svantechnical",
     "damage": 150,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/1/1a/Svantechnical.png",
     "damageType": "Ranged",
     "useTime": 2,
     "useTimeString": "Insanely fast",
@@ -6904,7 +6904,7 @@
   {
     "name": "Toxibow",
     "damage": 15,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/4/41/Toxibow.png",
     "damageType": "Ranged",
     "useTime": 28,
     "useTimeString": "Average",
@@ -6918,7 +6918,7 @@
   {
     "name": "Tyranny's End",
     "damage": 2000,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/7/7c/Tyranny%27s_End.png",
     "damageType": "Ranged",
     "useTime": 60,
     "useTimeString": "Snail",
@@ -6946,7 +6946,7 @@
   {
     "name": "Universal Genesis",
     "damage": 192,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/2/2f/Universal_Genesis.png",
     "damageType": "Ranged",
     "useTime": 26,
     "useTimeString": "Average",
@@ -6988,7 +6988,7 @@
   {
     "name": "Vortexpopper",
     "damage": 30,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/e/e5/Vortexpopper.png",
     "damageType": "Ranged",
     "useTime": 21,
     "useTimeString": "Fast",
@@ -7086,7 +7086,7 @@
   {
     "name": "Ashen Stalactite",
     "damage": 37,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/0/07/Ashen_Stalactite.png",
     "damageType": "Rogue",
     "useTime": 20,
     "useTimeString": "Very fast",
@@ -7231,8 +7231,8 @@
     "useTime": 25,
     "useTimeString": "Fast",
     "tooltip": "Throws a shadowflame spiky ball that bursts into flames\nStealth strikes make the ball linger and explode more violently\n'Definitely not pocket safe'",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Other",
     "source": "calamity",
     "rarity": "Pink"
@@ -7268,7 +7268,7 @@
   {
     "name": "Cinquedea",
     "damage": 36,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/d/dd/Cinquedea.png",
     "damageType": "Rogue",
     "useTime": 15,
     "useTimeString": "Very fast",
@@ -7366,7 +7366,7 @@
   {
     "name": "Crushsaw Crasher",
     "damage": 85,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/1/13/Crushsaw_Crasher.png",
     "damageType": "Rogue",
     "useTime": 18,
     "useTimeString": "Very fast",
@@ -7702,13 +7702,13 @@
   {
     "name": "Gacruxian Mollusk",
     "damage": 36,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/e/e8/Gacruxian_Mollusk.png",
     "damageType": "Rogue",
     "useTime": 26,
     "useTimeString": "Average",
     "tooltip": "Releases homing sparks while traveling\nStealth strikes release homing snails that create even more sparks",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Other",
     "source": "calamity",
     "rarity": "Light Red"
@@ -7730,7 +7730,7 @@
   {
     "name": "Ghoulish Gouger",
     "damage": 166,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/8/8e/Ghoulish_Gouger.png",
     "damageType": "Rogue",
     "useTime": 6,
     "useTimeString": "Insanely fast",
@@ -7827,7 +7827,7 @@
   },
   {
     "name": "Heavenfallen Stardisk",
-    "damage": 155,
+    "damage": 165,
     "image": "https://calamitymod.wiki.gg/images/1/12/Heavenfallen_Stardisk.png",
     "damageType": "Rogue",
     "useTime": 40,
@@ -7870,7 +7870,7 @@
   {
     "name": "Ice Star",
     "damage": 45,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/9/9e/Ice_Star.png",
     "damageType": "Rogue",
     "useTime": 12,
     "useTimeString": "Very fast",
@@ -7898,7 +7898,7 @@
   {
     "name": "Ichor Spear",
     "damage": 132,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/4/42/Ichor_Spear.png",
     "damageType": "Rogue",
     "useTime": 39,
     "useTimeString": "Very slow",
@@ -7912,7 +7912,7 @@
   {
     "name": "Infernal Kris",
     "damage": 24,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/2/21/Infernal_Kris.png",
     "damageType": "Rogue",
     "useTime": 18,
     "useTimeString": "Very fast",
@@ -8108,7 +8108,7 @@
   {
     "name": "Meteor Fist",
     "damage": 15,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/8/8a/Meteor_Fist.png",
     "damageType": "Rogue",
     "useTime": 18,
     "useTimeString": "Very fast",
@@ -8150,7 +8150,7 @@
   {
     "name": "Mycoroot",
     "damage": 12,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/5/5a/Mycoroot.png",
     "damageType": "Rogue",
     "useTime": 5,
     "useTimeString": "Insanely fast",
@@ -8164,7 +8164,7 @@
   {
     "name": "Mythril Knife",
     "damage": 80,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/7/7e/Mythril_Knife.png",
     "damageType": "Rogue",
     "useTime": 10,
     "useTimeString": "Very fast",
@@ -8183,8 +8183,8 @@
     "useTime": 6,
     "useTimeString": "Insanely fast",
     "tooltip": "Unleashes a storm of nanoblack energy blades\nBlades target bosses whenever possible\nStealth strikes cause the scythe to create a large amount of homing afterimages instead of energy blades\n'She smothered them in Her hatred'",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Crafting",
     "source": "calamity",
     "rarity": "Hot Pink"
@@ -8309,8 +8309,8 @@
     "useTime": 19,
     "useTimeString": "Very fast",
     "tooltip": "Throws up to 3 poisonous spiky balls\nStealth strikes cause the balls to release spore clouds\nPress <right> to delete all existing spiky balls",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Crafting",
     "source": "calamity",
     "rarity": "Blue"
@@ -8598,7 +8598,7 @@
   {
     "name": "Shinobi Blade",
     "damage": 24,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/0/06/Shinobi_Blade.png",
     "damageType": "Rogue",
     "useTime": 10,
     "useTimeString": "Very fast",
@@ -8631,8 +8631,8 @@
     "useTime": 15,
     "useTimeString": "Very fast",
     "tooltip": "Throws up to 4 gravity-defying spiky balls\nStealth strikes make the balls rain feathers onto enemies when they hit\nPress <right> to delete all existing spiky balls",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Crafting",
     "source": "calamity",
     "rarity": "Orange"
@@ -8658,12 +8658,12 @@
     "damageType": "Rogue",
     "useTime": 26,
     "useTimeString": "Average",
-    "tooltip": "Swipes a cane that steals money from enemies\nStealth strikes gives a 1 in 15 chance for enemies to drop 1-3 gold coins when hit\n'Economy at its finest'",
-    "knockback": 5,
+    "tooltip": "Swipes a cane that steals money from enemies\nStealth strikes gives a 1 in 20 chance for enemies to drop 1-3 gold coins when hit\nStealth strikes' damage increases in proportion to money in the inventory (up to 2 platinum)\n'Economy at its finest'",
+    "knockback": 6,
     "knockbackString": "Average knockback",
     "obtained": "Other",
     "source": "calamity",
-    "rarity": "Light Red"
+    "rarity": "Orange"
   },
   {
     "name": "Sludge Splotch",
@@ -8878,7 +8878,7 @@
   {
     "name": "The Old Reaper",
     "damage": 180,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/1/13/The_Old_Reaper.png",
     "damageType": "Rogue",
     "useTime": 20,
     "useTimeString": "Very fast",
@@ -8897,8 +8897,8 @@
     "useTime": 15,
     "useTimeString": "Very fast",
     "tooltip": "Throws a high velocity syringe that increases damage as it travels\nShatters into glass and plague cinders on impact\nStealth strikes also shatter into plague bees\n'I'm pretty sure this isn't healthy'",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Other",
     "source": "calamity",
     "rarity": "Yellow"
@@ -8906,7 +8906,7 @@
   {
     "name": "Throwing Brick",
     "damage": 17,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/a/a0/Throwing_Brick.png",
     "damageType": "Rogue",
     "useTime": 35,
     "useTimeString": "Slow",
@@ -9018,7 +9018,7 @@
   {
     "name": "Urchin Stinger",
     "damage": 13,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/a/a1/Urchin_Stinger.png",
     "damageType": "Rogue",
     "useTime": 14,
     "useTimeString": "Very fast",
@@ -9214,7 +9214,7 @@
   {
     "name": "Borealis Bomber",
     "damage": 35,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/5/5f/Borealis_Bomber.png",
     "damageType": "Summon",
     "useTime": 19,
     "useTimeString": "Very fast",
@@ -9229,12 +9229,12 @@
     "name": "Brittle Star Staff",
     "damage": 10,
     "image": "https://calamitymod.wiki.gg/images/8/87/Brittle_Star_Staff.png",
-    "damageType": "Classless",
+    "damageType": "Summon",
     "useTime": 32,
     "useTimeString": "Slow",
     "tooltip": "Summons a small brittle starfish that will dash through enemies until it shatters\nStarfish will quickly regenerate after shattering\nHolding right click will swap starfish between dashing and circling you\nWhen the starfish are circling, each one provides you with 3 defense",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Other",
     "source": "calamity",
     "rarity": "Green"
@@ -9261,8 +9261,8 @@
     "useTime": 10,
     "useTimeString": "Very fast",
     "tooltip": "undefined",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Other",
     "source": "calamity",
     "rarity": "Pure Green"
@@ -9270,7 +9270,7 @@
   {
     "name": "Caustic Croaker Staff",
     "damage": 8,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/8/8a/Caustic_Croaker_Staff.png",
     "damageType": "Summon",
     "useTime": 35,
     "useTimeString": "Slow",
@@ -9340,7 +9340,7 @@
   {
     "name": "Corroslime Staff",
     "damage": 24,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/7/7f/Corroslime_Staff.png",
     "damageType": "Summon",
     "useTime": 30,
     "useTimeString": "Average",
@@ -9382,7 +9382,7 @@
   {
     "name": "Cosmic Viper Engine",
     "damage": 321,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/7/77/Cosmic_Viper_Engine.png",
     "damageType": "Summon",
     "useTime": 9,
     "useTimeString": "Very fast",
@@ -9424,7 +9424,7 @@
   {
     "name": "Cryogenic Staff",
     "damage": 50,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/1/1a/Cryogenic_Staff.png",
     "damageType": "Summon",
     "useTime": 25,
     "useTimeString": "Fast",
@@ -9732,7 +9732,7 @@
   {
     "name": "Gamma Heart",
     "damage": 85,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/8/82/Gamma_Heart.png",
     "damageType": "Summon",
     "useTime": 14,
     "useTimeString": "Very fast",
@@ -9802,7 +9802,7 @@
   {
     "name": "Haunted Scroll",
     "damage": 25,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/7/7d/Haunted_Scroll.png",
     "damageType": "Summon",
     "useTime": 24,
     "useTimeString": "Fast",
@@ -9872,7 +9872,7 @@
   {
     "name": "King of Constellations, Tenryū",
     "damage": 187,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/a/a2/King_of_Constellations%2C_Tenry%C5%AB.png",
     "damageType": "Summon",
     "useTime": 25,
     "useTimeString": "Fast",
@@ -10026,7 +10026,7 @@
   {
     "name": "Resurrection Butterfly",
     "damage": 66,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/9/9a/Resurrection_Butterfly.png",
     "damageType": "Summon",
     "useTime": 20,
     "useTimeString": "Very fast",
@@ -10376,7 +10376,7 @@
   {
     "name": "Virid Vanguard",
     "damage": 73,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/4/46/Virid_Vanguard.png",
     "damageType": "Summon",
     "useTime": 14,
     "useTimeString": "Very fast",
@@ -10507,8 +10507,8 @@
     "useTime": 25,
     "useTimeString": "Fast",
     "tooltip": "Press <left> to begin charging up a lunging spear attack\nPress <left> again to release the charge and lunge towards the cursor\nPressing <left> while lunging to redirect the lunge to the cursor\nHolding any other item will cancel the charge",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Other",
     "source": "calamity",
     "rarity": "Purple"
@@ -10521,8 +10521,8 @@
     "useTime": 28,
     "useTimeString": "Average",
     "tooltip": "Summons an artifact at the mouse position\nThe artifact is damaged by enemies and all projectiles\nWhen destroyed, the artifact explodes into a rotating burst of shards\nIf an enemy is in the area of the shards, its next attack will be 45% weaker\nThis effect has a cooldown\nAfter 5 seconds, the shards come together to reform the original artifact\nThis reformation can happen 3 times before needing to be re-summoned\nYou gain a 5 second cooldown when summoning a new artifact\nIf an artifact already exists, using this item again will relocate it to the cursor",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Other",
     "source": "calamity",
     "rarity": "Purple"
@@ -10535,8 +10535,8 @@
     "useTime": 40,
     "useTimeString": "Very slow",
     "tooltip": "Throws a floaty explosive that defies gravity\n'You don't need an aerodynamics major to use this...'",
-    "knockback": null,
-    "knockbackString": "Insane knockback",
+    "knockback": 0,
+    "knockbackString": "No Knockback",
     "obtained": "Crafting",
     "source": "calamity",
     "rarity": "Orange"
@@ -10558,7 +10558,7 @@
   {
     "name": "Yanmei's Knife",
     "damage": 8,
-    "image": "",
+    "image": "https://calamitymod.wiki.gg/images/a/a7/Yanmei%27s_Knife.png",
     "damageType": "Classless",
     "useTime": 32,
     "useTimeString": "Slow",

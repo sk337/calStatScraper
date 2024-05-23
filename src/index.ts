@@ -14,9 +14,9 @@ const localContent = new LocalizationHandler(
   "./CalamityModPublic/Localization/en-US"
 );
 
-// const _imageOverrides = {
-//   FourSeasonsGalaxia: "Galaxia.png",
-// };
+const wikiOverides: { [key: string]: string } = {
+  Thunderstorm: "Thunderstorm_(weapon)",
+};
 
 function getstat(stats: string[], stat: string): string {
   for (let i = 0; i < stats.length; i++) {
@@ -29,27 +29,39 @@ function getstat(stats: string[], stat: string): string {
 
 async function getStats(path: string): Promise<Weapon> {
   const fileContent = readFileSync(path, "utf-8");
-  const statsRegex = fileContent.match(/SetDefaults()[^}]*}/im) as string[];
+  const statsRegex = fileContent.match(
+    /SetDefaults\(\)[\w\W]*?}\n/gim
+  ) as string[];
   if (!statsRegex) {
+    console.log("Unable to find stats");
     console.log(path);
+    console.log("===========");
   }
   let obtained: Obtained = "Other";
   const canCraft = fileContent.match(/AddRecipes/) ? true : false;
   if (canCraft) {
     obtained = "Crafting";
   }
+  if (statsRegex == null) {
+    console.log(path);
+  }
   const stats = statsRegex[0]
     .split("\n")
     .slice(2, -1)
-    .map((stat) => stat.trim())
-    .filter(Boolean);
+    .map((stat) => stat.trim());
 
   // console.log(stats)
   const stdName = path.split("/").splice(-1)[0].replace(/.cs$/, "");
+  // console.log(stdName);
   const localized = localContent.getLocalization(stdName);
   let fixStd = "";
   try {
     fixStd = localized.DisplayName.replace(/ /g, "_");
+    if (wikiOverides[fixStd]) {
+      console.log("Overide found for " + fixStd);
+      console.log("===========");
+      fixStd = wikiOverides[fixStd];
+    }
   } catch (e) {
     console.log(localized, stdName);
     process.exit(1);
@@ -63,23 +75,24 @@ async function getStats(path: string): Promise<Weapon> {
   let imagePath = "";
   const matches = text.match(/images\/[^"]*\.png"/g) as string[];
   if (matches == null) {
-    console.log(localized, stdName);
+    console.log("No image found for " + localized.DisplayName);
+    console.log(localized, stdName, fixStd);
+    console.log("===========");
     imagePath = "";
   } else {
     const path2 = matches[0].slice(0, -1);
     imagePath = imageBasePath + path2;
   }
-  const rarity = ParseRarity(getstat(stats, "rare"));
+  const rarity = ParseRarity(getstat(stats, "rare"), path, stats);
   // console.log(rarity);
   // if (rarity == "White") {
   //   console.log(localized.DisplayName, path, rarity, getstat(stats, "rare"));
   // }
-  if (!parseInt(getstat(stats, "knockBack"))) {
-    console.log(
-      localized.DisplayName,
-      path,
-      getstat(stats, "knockBack").replaceAll(/f/g, "")
-    );
+  let kb = parseInt(getstat(stats, "knockBack").replaceAll(/f/g, ""));
+  if (isNaN(kb)) {
+    console.log(`No knockback for ${localized.DisplayName} defaulting to 0`);
+    console.log("===========");
+    kb = 0;
   }
   const finalStats = {
     name: localized.DisplayName,
@@ -88,14 +101,12 @@ async function getStats(path: string): Promise<Weapon> {
     damageType:
       getstat(stats, "DamageType") == ""
         ? "Classless"
-        : correctDamageType(getstat(stats, "DamageType")),
+        : correctDamageType(getstat(stats, "DamageType"), path),
     useTime: parseInt(getstat(stats, "useTime")),
     useTimeString: speedToString(parseInt(getstat(stats, "useTime"))),
     tooltip: localized.Tooltip ? parseTooltip(localized.Tooltip) : "",
-    knockback: parseInt(getstat(stats, "knockBack").replaceAll(/f/g, "")),
-    knockbackString: knockbackToString(
-      parseInt(getstat(stats, "knockBack").replaceAll(/f/g, ""))
-    ),
+    knockback: kb,
+    knockbackString: knockbackToString(kb),
     obtained,
     source: "calamity" as ItemType,
     rarity,

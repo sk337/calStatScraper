@@ -9,14 +9,9 @@ interface LoadedLocalization {
   [key: string]: Localization;
 }
 
-interface LocalizationHandler {
-  paths: string[];
-  localized: LoadedLocalization;
-}
-
 function merge(
   obj1: LoadedLocalization,
-  obj2: LoadedLocalization,
+  obj2: LoadedLocalization
 ): LoadedLocalization {
   const merged: LoadedLocalization = {};
   for (const key in obj1) {
@@ -32,8 +27,14 @@ function merge(
   return merged;
 }
 class LocalizationHandler {
+  paths: string[];
+  localized: LoadedLocalization;
+
   constructor(localazationPath: string) {
-    this.paths = findPaths(localazationPath, /Items[a-zA-Z.]*\.hjson$/);
+    this.paths = findPaths(
+      localazationPath,
+      /Items\.(?!Potions|Armor)[a-zA-Z.]+\.hjson$/i
+    );
     // console.log(this.paths);
     let basePath: LoadedLocalization = {};
     this.paths.forEach((path) => {
@@ -45,10 +46,8 @@ class LocalizationHandler {
   }
   getLocalization(item: string): Localization {
     for (const key in this.localized) {
-      if (this.localized.hasOwnProperty(key)) {
-        if (key.includes(item)) {
-          return this.localized[key];
-        }
+      if (key.includes(item)) {
+        return this.localized[key];
       }
     }
     return {};
