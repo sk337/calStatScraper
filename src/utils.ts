@@ -83,6 +83,8 @@ function correctDamageType(damageype: string, weaponPath: string): DamageType {
       return "Melee";
     } else if (damage == "AverageDamageClass") {
       return "Classless";
+    } else if (damage == "MeleeRangedHybridDamageClass") {
+      return "Melee";
     }
     console.log("invalid damageType");
     console.log(damageType, weaponPath);
@@ -99,7 +101,7 @@ function correctDamageType(damageype: string, weaponPath: string): DamageType {
 function ParseRarity(
   rarity: string,
   weaponPath: string,
-  stats: string[]
+  stats: string[],
 ): Rarity {
   // Parse Calaminity Mod rarities
   if (rarity == "ModContent.RarityType<HotPink>()") {

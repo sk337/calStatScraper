@@ -11,11 +11,19 @@ import { Weapon, Obtained, ItemType } from "../types";
 import { LocalizationHandler } from "./LocalizationHandler";
 
 const localContent = new LocalizationHandler(
-  "./CalamityModPublic/Localization/en-US"
+  "./CalamityModPublic/Localization/en-US",
 );
 
 const wikiOverides: { [key: string]: string } = {
   Thunderstorm: "Thunderstorm_(weapon)",
+};
+
+const badWeapons: {
+  useTime: string[];
+  damage: string[];
+} = {
+  useTime: [],
+  damage: [],
 };
 
 function getstat(stats: string[], stat: string): string {
@@ -30,7 +38,7 @@ function getstat(stats: string[], stat: string): string {
 async function getStats(path: string): Promise<Weapon> {
   const fileContent = readFileSync(path, "utf-8");
   const statsRegex = fileContent.match(
-    /SetDefaults\(\)[\w\W]*?}\n/gim
+    /SetDefaults\(\)[\w\W]*?}\n/gim,
   ) as string[];
   if (!statsRegex) {
     console.log("Unable to find stats");
@@ -94,15 +102,37 @@ async function getStats(path: string): Promise<Weapon> {
     console.log("===========");
     kb = 0;
   }
+  let useTime = parseInt(getstat(stats, "useTime"));
+  let damage = parseInt(getstat(stats, "damage"));
+  if (isNaN(useTime)) {
+    badWeapons.useTime.push(localized.DisplayName);
+    console.log(
+      "could not find useTime for",
+      localized.DisplayName,
+      useTime,
+      getstat(stats, "useTime"),
+    );
+    console.log("===========");
+  }
+  if (isNaN(damage)) {
+    badWeapons.damage.push(localized.DisplayName);
+    console.log(
+      "could not find damage",
+      localized.DisplayName,
+      damage,
+      getstat(stats, "damage"),
+    );
+    console.log("===========");
+  }
   const finalStats = {
     name: localized.DisplayName,
-    damage: parseInt(getstat(stats, "damage")),
+    damage: damage,
     image: imagePath,
     damageType:
       getstat(stats, "DamageType") == ""
         ? "Classless"
         : correctDamageType(getstat(stats, "DamageType"), path),
-    useTime: parseInt(getstat(stats, "useTime")),
+    useTime: useTime,
     useTimeString: speedToString(parseInt(getstat(stats, "useTime"))),
     tooltip: localized.Tooltip ? parseTooltip(localized.Tooltip) : "",
     knockback: kb,
@@ -125,10 +155,15 @@ const forcePaths = [
   "./CalamityModPublic/Items/Fishing/BrimstoneCragCatches/DragoonDrizzlefish.cs",
 ];
 
+const ignorePaths = ["RougeWeapon.cs", "Skynamite.cs"];
+
 const fp = findPaths(weaponPath, /.*\.cs$/).concat(forcePaths);
 for (let idx = 0; idx < fp.length; idx++) {
   const path = fp[idx];
-  if (path.indexOf("RogueWeapon.cs") == -1) {
+  if (
+    path.indexOf("RogueWeapon.cs") == -1 &&
+    path.indexOf("Skynamite.cs") == -1
+  ) {
     weapons.push(await getStats(path));
   }
 }
@@ -136,3 +171,4 @@ for (let idx = 0; idx < fp.length; idx++) {
 console.log(weapons.length);
 
 writeFileSync("weapons.json", JSON.stringify(weapons, null, 2));
+writeFileSync("badWeapons.json", JSON.stringify(badWeapons, null, 2));

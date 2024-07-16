@@ -2,6 +2,7 @@
   "name": "calstatscraper",
   "module": "index.ts",
   "devDependencies": {
+    "@eslint/js": "^9.7.0",
     "@types/cli-progress": "^3.11.5",
     "@types/hjson": "^2.4.6",
     "@types/jsdom": "^21.1.6",
@@ -9,8 +10,10 @@
     "@typescript-eslint/eslint-plugin": "^7.3.1",
     "@typescript-eslint/parser": "^7.3.1",
     "bun-types": "^1.0.1",
-    "eslint": "^8.57.0",
-    "typescript": "^5.4.3"
+    "eslint": "9.x",
+    "globals": "^15.8.0",
+    "typescript": "^5.4.3",
+    "typescript-eslint": "^7.16.1"
   },
   "type": "module",
   "dependencies": {

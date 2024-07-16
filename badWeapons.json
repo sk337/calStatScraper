@@ -1,0 +1,38 @@
+{
+  "useTime": [
+    "The Anomaly's Nanogun",
+    "Aetherflux Cannon",
+    "Nano Purge",
+    "Valkyrie Ray",
+    "Exoblade",
+    "Roxcalibur",
+    "Wulfrum Screwdriver",
+    "Adamantite Particle Accelerator",
+    "Arc Nova Diffuser",
+    "Flak Kraken",
+    "Heavenly Gale",
+    "Magna Cannon",
+    "Opal Striker",
+    "Photoviscerator",
+    "Polaris Parrotfish",
+    "Scorpio",
+    "The Hive",
+    "Wildfire Bloom"
+  ],
+  "damage": [
+    "Pulse Rifle",
+    "Belching Saxophone",
+    "Eternity",
+    "Bonebreaker",
+    "Broken Biome Blade",
+    "Galaxia",
+    "Gael's Greatsword",
+    "Galaxy Smasher",
+    "Mirror Blade",
+    "True Biome Blade",
+    "Biome Blade",
+    "Nasty Cholla",
+    "Lilies of Finality",
+    "Relic of Resilience"
+  ]
+}
