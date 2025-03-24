@@ -9,10 +9,21 @@ import {
 } from "./utils";
 import { Weapon, Obtained, ItemType } from "../types";
 import { LocalizationHandler } from "./LocalizationHandler";
+import { Logger } from "./logger";
+import axios from "axios";
+import axiosRateLimit from "axios-rate-limit";
+
+const logger = new Logger();
 
 const localContent = new LocalizationHandler(
   "./CalamityModPublic/Localization/en-US",
 );
+
+const http = axiosRateLimit(axios.create(), {
+  maxRequests: 2,
+  perMilliseconds: 1000,
+  maxRPS: 2,
+});
 
 const wikiOverides: { [key: string]: string } = {
   Thunderstorm: "Thunderstorm_(weapon)",
@@ -41,9 +52,7 @@ async function getStats(path: string): Promise<Weapon> {
     /SetDefaults\(\)[\w\W]*?}\n/gim,
   ) as string[];
   if (!statsRegex) {
-    console.log("Unable to find stats");
-    console.log(path);
-    console.log("===========");
+    logger.warn(`Unable to find Stats`, path);
   }
   let obtained: Obtained = "Other";
   const canCraft = fileContent.match(/AddRecipes/) ? true : false;
@@ -66,63 +75,63 @@ async function getStats(path: string): Promise<Weapon> {
   try {
     fixStd = localized.DisplayName.replace(/ /g, "_");
     if (wikiOverides[fixStd]) {
-      console.log("Overide found for " + fixStd);
-      console.log("===========");
+      logger.info("Overide found for", fixStd);
+      // console.log("Overide found for " + fixStd);
+      // console.log("===========");
       fixStd = wikiOverides[fixStd];
     }
   } catch (e) {
-    console.log(localized, stdName);
+    console.error(localized, stdName);
     process.exit(1);
   }
   const imageBasePath = "https://calamitymod.wiki.gg/";
   const wikiBasePath =
     "https://calamitymod.wiki.gg/wiki/File:" + fixStd + ".png";
-  const text = await fetch(wikiBasePath).then((req) => {
-    return req.text();
-  });
+  const text = await http.get(wikiBasePath).then((res) => res.data);
   let imagePath = "";
-  const matches = text.match(/images\/[^"]*\.png"/g) as string[];
+  const matches = text.match(/images\/[^"]*\.png[^"]*"/g) as string[];
   if (matches == null) {
-    console.log("No image found for " + localized.DisplayName);
-    console.log(localized, stdName, fixStd);
-    console.log("===========");
+    logger.error(
+      text,
+      "No image found for",
+      localized.DisplayName,
+      localized,
+      stdName,
+      fixStd,
+    );
+    process.exit(1);
     imagePath = "";
   } else {
-    const path2 = matches[0].slice(0, -1);
+    const path2 = matches[0].slice(0, -1).replace(/\?[^"]*/, "");
     imagePath = imageBasePath + path2;
   }
   const rarity = ParseRarity(getstat(stats, "rare"), path, stats);
-  // console.log(rarity);
-  // if (rarity == "White") {
-  //   console.log(localized.DisplayName, path, rarity, getstat(stats, "rare"));
-  // }
-  let kb = parseInt(getstat(stats, "knockBack").replaceAll(/f/g, ""));
+  let kb = parseFloat(getstat(stats, "knockBack").replaceAll(/f/g, ""));
   if (isNaN(kb)) {
-    console.log(`No knockback for ${localized.DisplayName} defaulting to 0`);
-    console.log("===========");
+    logger.warn("No knockback for", localized.DisplayName, "defaulting to 0");
     kb = 0;
   }
-  let useTime = parseInt(getstat(stats, "useTime"));
-  let damage = parseInt(getstat(stats, "damage"));
+  let useTime = parseFloat(getstat(stats, "useTime"));
+  let damage = parseFloat(getstat(stats, "damage"));
   if (isNaN(useTime)) {
     badWeapons.useTime.push(localized.DisplayName);
-    console.log(
-      "could not find useTime for",
+    logger.warn(
+      "Could not parse useTime for",
       localized.DisplayName,
+      "found:",
       useTime,
       getstat(stats, "useTime"),
     );
-    console.log("===========");
   }
   if (isNaN(damage)) {
     badWeapons.damage.push(localized.DisplayName);
-    console.log(
-      "could not find damage",
+    logger.warn(
+      "Could not parse damage for",
       localized.DisplayName,
+      "found:",
       damage,
       getstat(stats, "damage"),
     );
-    console.log("===========");
   }
   const finalStats = {
     name: localized.DisplayName,
