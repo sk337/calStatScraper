@@ -175,3 +175,4 @@ dist
 .DS_Store
 CalamityModPublic
 images
+package-lock.json
